@@ -1,501 +1,600 @@
-,Name,Tweet Count,Compound Score,Positive,Negative,Neutral
-0,BBC,100,0.0,0.0,0.0,1.0
-1,BBC,99,-0.4767,0.0,0.307,0.693
-2,BBC,98,0.25,0.172,0.099,0.73
-3,BBC,97,0.0,0.0,0.0,1.0
-4,BBC,96,-0.6597,0.0,0.253,0.747
-5,BBC,95,-0.4019,0.0,0.114,0.886
-6,BBC,94,0.0,0.0,0.0,1.0
-7,BBC,93,0.0,0.0,0.0,1.0
-8,BBC,92,0.3612,0.128,0.0,0.872
-9,BBC,91,0.3724,0.145,0.0,0.855
-10,BBC,90,0.7351,0.437,0.0,0.563
-11,BBC,89,0.0,0.0,0.0,1.0
-12,BBC,88,0.0,0.0,0.0,1.0
-13,BBC,87,0.7906,0.35,0.0,0.65
-14,BBC,86,0.2732,0.192,0.12,0.687
-15,BBC,85,0.5719,0.209,0.0,0.791
-16,BBC,84,0.0,0.0,0.0,1.0
-17,BBC,83,0.0,0.0,0.0,1.0
-18,BBC,82,0.8316,0.317,0.0,0.683
-19,BBC,81,0.0,0.0,0.0,1.0
-20,BBC,80,0.0,0.0,0.0,1.0
-21,BBC,79,-0.4767,0.0,0.307,0.693
-22,BBC,78,0.25,0.172,0.099,0.73
-23,BBC,77,0.0,0.0,0.0,1.0
-24,BBC,76,-0.6597,0.0,0.253,0.747
-25,BBC,75,-0.4019,0.0,0.114,0.886
-26,BBC,74,0.0,0.0,0.0,1.0
-27,BBC,73,0.0,0.0,0.0,1.0
-28,BBC,72,0.3612,0.128,0.0,0.872
-29,BBC,71,0.3724,0.145,0.0,0.855
-30,BBC,70,0.7351,0.437,0.0,0.563
-31,BBC,69,0.0,0.0,0.0,1.0
-32,BBC,68,0.0,0.0,0.0,1.0
-33,BBC,67,0.7906,0.35,0.0,0.65
-34,BBC,66,0.2732,0.192,0.12,0.687
-35,BBC,65,0.5719,0.209,0.0,0.791
-36,BBC,64,0.0,0.0,0.0,1.0
-37,BBC,63,0.0,0.0,0.0,1.0
-38,BBC,62,0.8316,0.317,0.0,0.683
-39,BBC,61,0.0,0.0,0.0,1.0
-40,BBC,60,0.0,0.0,0.0,1.0
-41,BBC,59,0.0,0.0,0.0,1.0
-42,BBC,58,0.0,0.0,0.0,1.0
-43,BBC,57,0.0,0.0,0.0,1.0
-44,BBC,56,-0.6361,0.0,0.198,0.802
-45,BBC,55,0.2023,0.127,0.088,0.784
-46,BBC,54,0.0,0.0,0.0,1.0
-47,BBC,53,0.6369,0.219,0.0,0.781
-48,BBC,52,0.34,0.167,0.086,0.747
-49,BBC,51,-0.1027,0.0,0.097,0.903
-50,BBC,50,-0.4767,0.0,0.154,0.846
-51,BBC,49,0.2263,0.115,0.084,0.801
-52,BBC,48,0.0,0.0,0.0,1.0
-53,BBC,47,0.3612,0.122,0.0,0.878
-54,BBC,46,0.0,0.0,0.0,1.0
-55,BBC,45,0.7845,0.266,0.0,0.734
-56,BBC,44,0.0,0.0,0.0,1.0
-57,BBC,43,0.5423,0.28,0.0,0.72
-58,BBC,42,0.0,0.0,0.0,1.0
-59,BBC,41,0.8748,0.4,0.0,0.6
-60,BBC,40,0.0,0.0,0.0,1.0
-61,BBC,39,0.0,0.0,0.0,1.0
-62,BBC,38,0.2668,0.241,0.202,0.557
-63,BBC,37,0.0,0.0,0.0,1.0
-64,BBC,36,0.0,0.0,0.0,1.0
-65,BBC,35,-0.3818,0.0,0.148,0.852
-66,BBC,34,0.3291,0.168,0.107,0.726
-67,BBC,33,0.0,0.0,0.0,1.0
-68,BBC,32,-0.3724,0.0,0.154,0.846
-69,BBC,31,0.8807,0.463,0.0,0.537
-70,BBC,30,0.0,0.0,0.0,1.0
-71,BBC,29,0.7506,0.286,0.0,0.714
-72,BBC,28,0.4215,0.189,0.0,0.811
-73,BBC,27,-0.8625,0.0,0.35,0.65
-74,BBC,26,0.4939,0.225,0.0,0.775
-75,BBC,25,0.0,0.0,0.0,1.0
-76,BBC,24,0.3612,0.161,0.0,0.839
-77,BBC,23,0.0,0.0,0.0,1.0
-78,BBC,22,0.0,0.0,0.0,1.0
-79,BBC,21,0.7717,0.261,0.0,0.739
-80,BBC,20,0.4926,0.144,0.0,0.856
-81,BBC,19,0.4843,0.242,0.0,0.758
-82,BBC,18,0.3034,0.169,0.0,0.831
-83,BBC,17,0.0,0.0,0.0,1.0
-84,BBC,16,0.5267,0.296,0.127,0.577
-85,BBC,15,0.3664,0.174,0.0,0.826
-86,BBC,14,0.7177,0.285,0.0,0.715
-87,BBC,13,0.0,0.0,0.0,1.0
-88,BBC,12,0.0,0.0,0.0,1.0
-89,BBC,11,0.0,0.0,0.0,1.0
-90,BBC,10,0.5719,0.236,0.0,0.764
-91,BBC,9,0.0,0.0,0.0,1.0
-92,BBC,8,0.6068,0.24,0.082,0.678
-93,BBC,7,0.4199,0.202,0.0,0.798
-94,BBC,6,0.4926,0.186,0.0,0.814
-95,BBC,5,0.8689,0.43,0.0,0.57
-96,BBC,4,0.0,0.0,0.0,1.0
-97,BBC,3,0.4574,0.143,0.0,0.857
-98,BBC,2,-0.5562,0.0,0.135,0.865
-99,BBC,1,0.0,0.0,0.0,1.0
-100,CNN,100,0.6369,0.259,0.0,0.741
-101,CNN,99,-0.4767,0.0,0.129,0.871
-102,CNN,98,0.0258,0.129,0.124,0.747
-103,CNN,97,0.0,0.0,0.0,1.0
-104,CNN,96,-0.5719,0.0,0.281,0.719
-105,CNN,95,0.0,0.0,0.0,1.0
-106,CNN,94,0.4019,0.124,0.0,0.876
-107,CNN,93,0.0516,0.102,0.093,0.805
-108,CNN,92,-0.5106,0.0,0.155,0.845
-109,CNN,91,-0.6597,0.0,0.231,0.769
-110,CNN,90,0.2584,0.107,0.0,0.893
-111,CNN,89,0.4588,0.267,0.0,0.733
-112,CNN,88,0.0,0.0,0.0,1.0
-113,CNN,87,0.2732,0.11,0.0,0.89
-114,CNN,86,0.4019,0.119,0.0,0.881
-115,CNN,85,0.5267,0.145,0.0,0.855
-116,CNN,84,-0.4588,0.0,0.125,0.875
-117,CNN,83,-0.1531,0.0,0.091,0.909
-118,CNN,82,-0.4767,0.0,0.129,0.871
-119,CNN,81,-0.0516,0.173,0.186,0.641
-120,CNN,80,0.6369,0.259,0.0,0.741
-121,CNN,79,-0.4767,0.0,0.129,0.871
-122,CNN,78,0.0258,0.129,0.124,0.747
-123,CNN,77,0.0,0.0,0.0,1.0
-124,CNN,76,-0.5719,0.0,0.281,0.719
-125,CNN,75,0.0,0.0,0.0,1.0
-126,CNN,74,0.4019,0.124,0.0,0.876
-127,CNN,73,0.0516,0.102,0.093,0.805
-128,CNN,72,-0.5106,0.0,0.155,0.845
-129,CNN,71,-0.6597,0.0,0.231,0.769
-130,CNN,70,0.2584,0.107,0.0,0.893
-131,CNN,69,0.4588,0.267,0.0,0.733
-132,CNN,68,0.0,0.0,0.0,1.0
-133,CNN,67,0.2732,0.11,0.0,0.89
-134,CNN,66,0.4019,0.119,0.0,0.881
-135,CNN,65,0.5267,0.145,0.0,0.855
-136,CNN,64,-0.4588,0.0,0.125,0.875
-137,CNN,63,-0.1531,0.0,0.091,0.909
-138,CNN,62,-0.4767,0.0,0.129,0.871
-139,CNN,61,-0.0516,0.173,0.186,0.641
-140,CNN,60,0.25,0.105,0.0,0.895
-141,CNN,59,0.0,0.0,0.0,1.0
-142,CNN,58,-0.4588,0.0,0.13,0.87
-143,CNN,57,-0.5719,0.0,0.281,0.719
-144,CNN,56,-0.6597,0.0,0.265,0.735
-145,CNN,55,0.1779,0.114,0.084,0.802
-146,CNN,54,0.0,0.0,0.0,1.0
-147,CNN,53,-0.8625,0.0,0.336,0.664
-148,CNN,52,-0.296,0.063,0.132,0.805
-149,CNN,51,0.1531,0.12,0.095,0.785
-150,CNN,50,0.4939,0.144,0.0,0.856
-151,CNN,49,0.0,0.0,0.0,1.0
-152,CNN,48,-0.6597,0.0,0.241,0.759
-153,CNN,47,0.0,0.0,0.0,1.0
-154,CNN,46,-0.2144,0.0,0.085,0.915
-155,CNN,45,-0.4019,0.0,0.137,0.863
-156,CNN,44,0.25,0.105,0.0,0.895
-157,CNN,43,-0.6597,0.0,0.231,0.769
-158,CNN,42,0.5267,0.145,0.0,0.855
-159,CNN,41,0.0,0.0,0.0,1.0
-160,CNN,40,0.4019,0.124,0.0,0.876
-161,CNN,39,-0.4588,0.068,0.191,0.741
-162,CNN,38,0.2732,0.11,0.0,0.89
-163,CNN,37,-0.6597,0.0,0.231,0.769
-164,CNN,36,0.0,0.0,0.0,1.0
-165,CNN,35,-0.25,0.0,0.1,0.9
-166,CNN,34,0.0,0.0,0.0,1.0
-167,CNN,33,0.0,0.0,0.0,1.0
-168,CNN,32,0.0516,0.102,0.093,0.805
-169,CNN,31,0.0,0.0,0.0,1.0
-170,CNN,30,0.0,0.0,0.0,1.0
-171,CNN,29,0.296,0.155,0.0,0.845
-172,CNN,28,-0.0644,0.0,0.05,0.95
-173,CNN,27,0.2354,0.117,0.079,0.804
-174,CNN,26,0.0,0.0,0.0,1.0
-175,CNN,25,0.0,0.0,0.0,1.0
-176,CNN,24,0.0516,0.191,0.145,0.664
-177,CNN,23,-0.2732,0.102,0.181,0.717
-178,CNN,22,0.25,0.105,0.0,0.895
-179,CNN,21,0.6369,0.259,0.0,0.741
-180,CNN,20,0.0,0.0,0.0,1.0
-181,CNN,19,-0.2732,0.0,0.091,0.909
-182,CNN,18,-0.6249,0.0,0.267,0.733
-183,CNN,17,0.0,0.0,0.0,1.0
-184,CNN,16,0.0,0.0,0.0,1.0
-185,CNN,15,0.7906,0.333,0.0,0.667
-186,CNN,14,0.0258,0.185,0.179,0.636
-187,CNN,13,0.0,0.0,0.0,1.0
-188,CNN,12,-0.1027,0.0,0.062,0.938
-189,CNN,11,0.0,0.0,0.0,1.0
-190,CNN,10,0.0516,0.191,0.145,0.664
-191,CNN,9,0.0,0.0,0.0,1.0
-192,CNN,8,0.0,0.0,0.0,1.0
-193,CNN,7,-0.0557,0.112,0.123,0.766
-194,CNN,6,0.2023,0.28,0.171,0.549
-195,CNN,5,0.5859,0.229,0.084,0.687
-196,CNN,4,0.0,0.0,0.0,1.0
-197,CNN,3,-0.1779,0.12,0.15,0.73
-198,CNN,2,0.0,0.0,0.0,1.0
-199,CNN,1,-0.6597,0.0,0.231,0.769
-200,CBS,100,0.4199,0.128,0.0,0.872
-201,CBS,99,0.0,0.0,0.0,1.0
-202,CBS,98,0.0,0.0,0.0,1.0
-203,CBS,97,0.4199,0.141,0.0,0.859
-204,CBS,96,0.4926,0.144,0.0,0.856
-205,CBS,95,-0.0772,0.0,0.08,0.92
-206,CBS,94,0.7506,0.33,0.0,0.67
-207,CBS,93,0.6145,0.267,0.0,0.733
-208,CBS,92,0.0,0.0,0.0,1.0
-209,CBS,91,0.8074,0.3,0.0,0.7
-210,CBS,90,0.0,0.0,0.0,1.0
-211,CBS,89,0.0,0.0,0.0,1.0
-212,CBS,88,0.5627,0.225,0.0,0.775
-213,CBS,87,0.0,0.0,0.0,1.0
-214,CBS,86,0.1531,0.191,0.151,0.658
-215,CBS,85,0.0,0.0,0.0,1.0
-216,CBS,84,-0.2263,0.0,0.112,0.888
-217,CBS,83,0.4199,0.128,0.0,0.872
-218,CBS,82,0.0,0.0,0.0,1.0
-219,CBS,81,0.0,0.0,0.0,1.0
-220,CBS,80,0.4199,0.128,0.0,0.872
-221,CBS,79,0.0,0.0,0.0,1.0
-222,CBS,78,0.0,0.0,0.0,1.0
-223,CBS,77,0.4199,0.141,0.0,0.859
-224,CBS,76,0.4926,0.144,0.0,0.856
-225,CBS,75,-0.0772,0.0,0.08,0.92
-226,CBS,74,0.7506,0.33,0.0,0.67
-227,CBS,73,0.6145,0.267,0.0,0.733
-228,CBS,72,0.0,0.0,0.0,1.0
-229,CBS,71,0.8074,0.3,0.0,0.7
-230,CBS,70,0.0,0.0,0.0,1.0
-231,CBS,69,0.0,0.0,0.0,1.0
-232,CBS,68,0.5627,0.225,0.0,0.775
-233,CBS,67,0.0,0.0,0.0,1.0
-234,CBS,66,0.1531,0.191,0.151,0.658
-235,CBS,65,0.0,0.0,0.0,1.0
-236,CBS,64,-0.2263,0.0,0.112,0.888
-237,CBS,63,0.4199,0.128,0.0,0.872
-238,CBS,62,0.0,0.0,0.0,1.0
-239,CBS,61,0.0,0.0,0.0,1.0
-240,CBS,60,0.0,0.0,0.0,1.0
-241,CBS,59,0.0,0.0,0.0,1.0
-242,CBS,58,0.5411,0.155,0.0,0.845
-243,CBS,57,-0.5994,0.0,0.157,0.843
-244,CBS,56,0.3818,0.148,0.0,0.852
-245,CBS,55,0.0,0.0,0.0,1.0
-246,CBS,54,-0.1149,0.179,0.133,0.687
-247,CBS,53,0.0,0.0,0.0,1.0
-248,CBS,52,0.0,0.0,0.0,1.0
-249,CBS,51,0.8192,0.31,0.0,0.69
-250,CBS,50,0.886,0.38,0.0,0.62
-251,CBS,49,0.5631,0.22,0.055,0.725
-252,CBS,48,0.0,0.0,0.0,1.0
-253,CBS,47,0.3595,0.116,0.0,0.884
-254,CBS,46,-0.3885,0.102,0.159,0.739
-255,CBS,45,0.3818,0.115,0.0,0.885
-256,CBS,44,0.4199,0.128,0.0,0.872
-257,CBS,43,0.0,0.0,0.0,1.0
-258,CBS,42,0.0,0.0,0.0,1.0
-259,CBS,41,0.6166,0.224,0.0,0.776
-260,CBS,40,0.0,0.0,0.0,1.0
-261,CBS,39,0.6514,0.203,0.0,0.797
-262,CBS,38,0.6369,0.181,0.0,0.819
-263,CBS,37,0.6514,0.194,0.0,0.806
-264,CBS,36,0.0,0.0,0.0,1.0
-265,CBS,35,0.0,0.0,0.0,1.0
-266,CBS,34,0.0,0.0,0.0,1.0
-267,CBS,33,0.0,0.0,0.0,1.0
-268,CBS,32,0.0,0.0,0.0,1.0
-269,CBS,31,0.8932,0.494,0.05,0.457
-270,CBS,30,0.7959,0.392,0.0,0.608
-271,CBS,29,0.7574,0.396,0.071,0.533
-272,CBS,28,0.6124,0.263,0.0,0.737
-273,CBS,27,0.6996,0.266,0.0,0.734
-274,CBS,26,0.0572,0.059,0.05,0.892
-275,CBS,25,0.2732,0.11,0.0,0.89
-276,CBS,24,0.0,0.0,0.0,1.0
-277,CBS,23,0.0,0.0,0.0,1.0
-278,CBS,22,0.2481,0.111,0.0,0.889
-279,CBS,21,0.3612,0.116,0.0,0.884
-280,CBS,20,0.1139,0.083,0.0,0.917
-281,CBS,19,0.3612,0.128,0.0,0.872
-282,CBS,18,-0.2263,0.0,0.091,0.909
-283,CBS,17,-0.1759,0.128,0.161,0.711
-284,CBS,16,0.4738,0.14,0.0,0.86
-285,CBS,15,-0.4096,0.0,0.189,0.811
-286,CBS,14,0.0,0.0,0.0,1.0
-287,CBS,13,0.4574,0.158,0.0,0.842
-288,CBS,12,0.5562,0.166,0.0,0.834
-289,CBS,11,0.0,0.0,0.0,1.0
-290,CBS,10,-0.128,0.0,0.13,0.87
-291,CBS,9,0.0,0.0,0.0,1.0
-292,CBS,8,0.69,0.24,0.0,0.76
-293,CBS,7,0.4843,0.196,0.0,0.804
-294,CBS,6,0.636,0.316,0.12,0.564
-295,CBS,5,-0.128,0.0,0.07,0.93
-296,CBS,4,-0.128,0.181,0.159,0.661
-297,CBS,3,0.4963,0.215,0.059,0.726
-298,CBS,2,0.0,0.0,0.0,1.0
-299,CBS,1,0.3612,0.135,0.0,0.865
-300,Fox News,100,0.2584,0.107,0.0,0.893
-301,Fox News,99,0.0,0.0,0.0,1.0
-302,Fox News,98,0.0,0.0,0.0,1.0
-303,Fox News,97,0.0,0.0,0.0,1.0
-304,Fox News,96,0.0,0.0,0.0,1.0
-305,Fox News,95,0.0,0.0,0.0,1.0
-306,Fox News,94,-0.7269,0.0,0.404,0.596
-307,Fox News,93,-0.3612,0.0,0.152,0.848
-308,Fox News,92,-0.7845,0.0,0.463,0.537
-309,Fox News,91,0.0,0.0,0.0,1.0
-310,Fox News,90,0.0,0.0,0.0,1.0
-311,Fox News,89,0.0772,0.064,0.0,0.936
-312,Fox News,88,0.4939,0.186,0.0,0.814
-313,Fox News,87,-0.5256,0.0,0.22,0.78
-314,Fox News,86,0.2584,0.107,0.0,0.893
-315,Fox News,85,-0.2023,0.0,0.101,0.899
-316,Fox News,84,-0.6486,0.0,0.35,0.65
-317,Fox News,83,0.0,0.0,0.0,1.0
-318,Fox News,82,-0.4404,0.14,0.29,0.57
-319,Fox News,81,0.0,0.0,0.0,1.0
-320,Fox News,80,0.2584,0.107,0.0,0.893
-321,Fox News,79,0.0,0.0,0.0,1.0
-322,Fox News,78,0.0,0.0,0.0,1.0
-323,Fox News,77,0.0,0.0,0.0,1.0
-324,Fox News,76,0.0,0.0,0.0,1.0
-325,Fox News,75,0.0,0.0,0.0,1.0
-326,Fox News,74,-0.7269,0.0,0.404,0.596
-327,Fox News,73,-0.3612,0.0,0.152,0.848
-328,Fox News,72,-0.7845,0.0,0.463,0.537
-329,Fox News,71,0.0,0.0,0.0,1.0
-330,Fox News,70,0.0,0.0,0.0,1.0
-331,Fox News,69,0.0772,0.064,0.0,0.936
-332,Fox News,68,0.4939,0.186,0.0,0.814
-333,Fox News,67,-0.5256,0.0,0.22,0.78
-334,Fox News,66,0.2584,0.107,0.0,0.893
-335,Fox News,65,-0.2023,0.0,0.101,0.899
-336,Fox News,64,-0.6486,0.0,0.35,0.65
-337,Fox News,63,0.0,0.0,0.0,1.0
-338,Fox News,62,-0.4404,0.14,0.29,0.57
-339,Fox News,61,0.0,0.0,0.0,1.0
-340,Fox News,60,0.4019,0.184,0.0,0.816
-341,Fox News,59,0.0,0.0,0.0,1.0
-342,Fox News,58,0.0,0.0,0.0,1.0
-343,Fox News,57,0.0,0.0,0.0,1.0
-344,Fox News,56,0.0,0.0,0.0,1.0
-345,Fox News,55,0.8074,0.399,0.0,0.601
-346,Fox News,54,-0.1531,0.0,0.118,0.882
-347,Fox News,53,0.0,0.0,0.0,1.0
-348,Fox News,52,0.0,0.0,0.0,1.0
-349,Fox News,51,-0.5574,0.0,0.184,0.816
-350,Fox News,50,0.2716,0.104,0.0,0.896
-351,Fox News,49,0.5267,0.254,0.0,0.746
-352,Fox News,48,0.4215,0.141,0.0,0.859
-353,Fox News,47,-0.4588,0.0,0.188,0.812
-354,Fox News,46,0.0,0.0,0.0,1.0
-355,Fox News,45,0.0,0.0,0.0,1.0
-356,Fox News,44,0.2144,0.093,0.0,0.907
-357,Fox News,43,0.0,0.0,0.0,1.0
-358,Fox News,42,-0.4215,0.0,0.141,0.859
-359,Fox News,41,-0.5256,0.0,0.22,0.78
-360,Fox News,40,0.5106,0.163,0.0,0.837
-361,Fox News,39,-0.1027,0.0,0.123,0.877
-362,Fox News,38,0.0,0.0,0.0,1.0
-363,Fox News,37,0.0,0.0,0.0,1.0
-364,Fox News,36,0.34,0.151,0.092,0.756
-365,Fox News,35,0.1779,0.086,0.0,0.914
-366,Fox News,34,0.0,0.0,0.0,1.0
-367,Fox News,33,0.0516,0.094,0.086,0.82
-368,Fox News,32,-0.4019,0.077,0.15,0.773
-369,Fox News,31,-0.5719,0.128,0.303,0.569
-370,Fox News,30,0.4019,0.184,0.0,0.816
-371,Fox News,29,0.4939,0.186,0.0,0.814
-372,Fox News,28,-0.7096,0.0,0.496,0.504
-373,Fox News,27,-0.2023,0.0,0.101,0.899
-374,Fox News,26,-0.3612,0.0,0.185,0.815
-375,Fox News,25,-0.6705,0.0,0.36,0.64
-376,Fox News,24,0.0,0.0,0.0,1.0
-377,Fox News,23,-0.4404,0.0,0.172,0.828
-378,Fox News,22,-0.3612,0.0,0.152,0.848
-379,Fox News,21,-0.7845,0.0,0.463,0.537
-380,Fox News,20,-0.6486,0.0,0.35,0.65
-381,Fox News,19,0.3612,0.294,0.0,0.706
-382,Fox News,18,-0.1027,0.0,0.123,0.877
-383,Fox News,17,0.0,0.0,0.0,1.0
-384,Fox News,16,0.4767,0.193,0.0,0.807
-385,Fox News,15,0.0,0.0,0.0,1.0
-386,Fox News,14,0.0,0.0,0.0,1.0
-387,Fox News,13,0.0,0.0,0.0,1.0
-388,Fox News,12,-0.6486,0.0,0.301,0.699
-389,Fox News,11,0.0,0.0,0.0,1.0
-390,Fox News,10,-0.4767,0.0,0.279,0.721
-391,Fox News,9,-0.1531,0.0,0.118,0.882
-392,Fox News,8,0.0,0.0,0.0,1.0
-393,Fox News,7,0.0,0.0,0.0,1.0
-394,Fox News,6,0.4939,0.186,0.0,0.814
-395,Fox News,5,0.0,0.0,0.0,1.0
-396,Fox News,4,0.0,0.0,0.0,1.0
-397,Fox News,3,-0.5423,0.0,0.304,0.696
-398,Fox News,2,0.4215,0.135,0.0,0.865
-399,Fox News,1,-0.6486,0.0,0.281,0.719
-400,The New York Times,100,0.0,0.0,0.0,1.0
-401,The New York Times,99,-0.6249,0.0,0.186,0.814
-402,The New York Times,98,-0.3612,0.092,0.171,0.737
-403,The New York Times,97,0.7783,0.327,0.0,0.673
-404,The New York Times,96,0.0,0.0,0.0,1.0
-405,The New York Times,95,0.2023,0.184,0.0,0.816
-406,The New York Times,94,-0.6124,0.0,0.3,0.7
-407,The New York Times,93,0.7351,0.408,0.0,0.592
-408,The New York Times,92,0.4767,0.147,0.0,0.853
-409,The New York Times,91,0.0056,0.09,0.089,0.82
-410,The New York Times,90,0.3612,0.172,0.0,0.828
-411,The New York Times,89,0.2023,0.167,0.0,0.833
-412,The New York Times,88,0.0,0.0,0.0,1.0
-413,The New York Times,87,0.7964,0.253,0.0,0.747
-414,The New York Times,86,0.7776,0.358,0.0,0.642
-415,The New York Times,85,-0.3818,0.0,0.178,0.822
-416,The New York Times,84,-0.2732,0.0,0.084,0.916
-417,The New York Times,83,0.0,0.0,0.0,1.0
-418,The New York Times,82,0.8074,0.316,0.0,0.684
-419,The New York Times,81,-0.5423,0.0,0.189,0.811
-420,The New York Times,80,0.0,0.0,0.0,1.0
-421,The New York Times,79,-0.6249,0.0,0.186,0.814
-422,The New York Times,78,-0.3612,0.092,0.171,0.737
-423,The New York Times,77,0.7783,0.327,0.0,0.673
-424,The New York Times,76,0.0,0.0,0.0,1.0
-425,The New York Times,75,0.2023,0.184,0.0,0.816
-426,The New York Times,74,-0.6124,0.0,0.3,0.7
-427,The New York Times,73,0.7351,0.408,0.0,0.592
-428,The New York Times,72,0.4767,0.147,0.0,0.853
-429,The New York Times,71,0.0056,0.09,0.089,0.82
-430,The New York Times,70,0.3612,0.172,0.0,0.828
-431,The New York Times,69,0.2023,0.167,0.0,0.833
-432,The New York Times,68,0.0,0.0,0.0,1.0
-433,The New York Times,67,0.7964,0.253,0.0,0.747
-434,The New York Times,66,0.7776,0.358,0.0,0.642
-435,The New York Times,65,-0.3818,0.0,0.178,0.822
-436,The New York Times,64,-0.2732,0.0,0.084,0.916
-437,The New York Times,63,0.0,0.0,0.0,1.0
-438,The New York Times,62,0.8074,0.316,0.0,0.684
-439,The New York Times,61,-0.5423,0.0,0.189,0.811
-440,The New York Times,60,-0.5859,0.0,0.275,0.725
-441,The New York Times,59,-0.296,0.108,0.203,0.69
-442,The New York Times,58,0.1531,0.223,0.191,0.585
-443,The New York Times,57,0.0,0.0,0.0,1.0
-444,The New York Times,56,-0.8807,0.0,0.427,0.573
-445,The New York Times,55,-0.6908,0.0,0.251,0.749
-446,The New York Times,54,0.0,0.0,0.0,1.0
-447,The New York Times,53,0.0,0.0,0.0,1.0
-448,The New York Times,52,0.0,0.0,0.0,1.0
-449,The New York Times,51,-0.7351,0.076,0.336,0.588
-450,The New York Times,50,0.5267,0.12,0.0,0.88
-451,The New York Times,49,-0.2023,0.257,0.309,0.434
-452,The New York Times,48,-0.34,0.0,0.167,0.833
-453,The New York Times,47,0.4215,0.135,0.0,0.865
-454,The New York Times,46,0.0,0.0,0.0,1.0
-455,The New York Times,45,0.4019,0.13,0.0,0.87
-456,The New York Times,44,-0.4019,0.0,0.13,0.87
-457,The New York Times,43,0.4019,0.119,0.0,0.881
-458,The New York Times,42,-0.4013,0.0,0.278,0.722
-459,The New York Times,41,-0.6249,0.0,0.204,0.796
-460,The New York Times,40,0.4019,0.213,0.0,0.787
-461,The New York Times,39,0.0,0.0,0.0,1.0
-462,The New York Times,38,-0.5859,0.0,0.322,0.678
-463,The New York Times,37,-0.4588,0.0,0.182,0.818
-464,The New York Times,36,0.4019,0.213,0.0,0.787
-465,The New York Times,35,-0.0436,0.074,0.082,0.844
-466,The New York Times,34,-0.3818,0.0,0.148,0.852
-467,The New York Times,33,0.0,0.0,0.0,1.0
-468,The New York Times,32,0.5095,0.181,0.065,0.754
-469,The New York Times,31,0.0,0.0,0.0,1.0
-470,The New York Times,30,-0.2263,0.148,0.206,0.645
-471,The New York Times,29,0.5574,0.286,0.0,0.714
-472,The New York Times,28,-0.4767,0.0,0.154,0.846
-473,The New York Times,27,0.0,0.0,0.0,1.0
-474,The New York Times,26,0.4404,0.146,0.0,0.854
-475,The New York Times,25,0.0,0.0,0.0,1.0
-476,The New York Times,24,-0.5267,0.0,0.468,0.532
-477,The New York Times,23,-0.296,0.0,0.18,0.82
-478,The New York Times,22,0.0772,0.075,0.0,0.925
-479,The New York Times,21,0.4939,0.21,0.092,0.699
-480,The New York Times,20,0.1779,0.134,0.0,0.866
-481,The New York Times,19,0.6597,0.221,0.0,0.779
-482,The New York Times,18,0.0,0.0,0.0,1.0
-483,The New York Times,17,0.6124,0.2,0.0,0.8
-484,The New York Times,16,0.0,0.0,0.0,1.0
-485,The New York Times,15,0.3612,0.143,0.0,0.857
-486,The New York Times,14,0.0,0.0,0.0,1.0
-487,The New York Times,13,0.0,0.0,0.0,1.0
-488,The New York Times,12,-0.296,0.0,0.104,0.896
-489,The New York Times,11,0.0,0.0,0.0,1.0
-490,The New York Times,10,-0.802,0.0,0.369,0.631
-491,The New York Times,9,-0.5859,0.0,0.241,0.759
-492,The New York Times,8,0.4767,0.154,0.0,0.846
-493,The New York Times,7,0.0,0.0,0.0,1.0
-494,The New York Times,6,0.2732,0.319,0.163,0.519
-495,The New York Times,5,-0.5994,0.0,0.178,0.822
-496,The New York Times,4,-0.5106,0.0,0.148,0.852
-497,The New York Times,3,0.0,0.0,0.0,1.0
-498,The New York Times,2,0.4588,0.286,0.0,0.714
-499,The New York Times,1,-0.4404,0.0,0.244,0.756
+,Name,Tweet Count,Tweet,Compound Score,Positive,Negative,Neutral,Date
+0,BBC,100,"Tonight, @WhisperingBob introduces highlights of the 51st annual #CMAAwards from Nashville, Tennessee. 10pm on… https://t.co/daG51sJnrG",0.0,0.0,0.0,1.0,Sun Nov 19 21:35:04 +0000 2017
+1,BBC,99,RT @BBCOne: Can’t type. Heart broken. 😫 #BluePlanet2 https://t.co/pfEmBqvNHz,-0.4767,0.0,0.307,0.693,Sun Nov 19 21:12:12 +0000 2017
+2,BBC,98,"RT @BBCEarth: This turtle was rescued by the #BluePlanet2 crew. As it wasn’t injured and could swim, it was released straight away.
+#BluePl…",0.25,0.172,0.099,0.73,Sun Nov 19 21:05:41 +0000 2017
+3,BBC,97,This is how Iceland got its young people to give up drink and drugs. Via BBC World Hacks. https://t.co/1qMGnLdwWe,0.0,0.0,0.0,1.0,Sun Nov 19 21:00:03 +0000 2017
+4,BBC,96,"How plastic is slowly killing our sea creatures, fish and birds: https://t.co/utSlBsw1d0 #BluePlanet2 😢 https://t.co/6oji1Q4YwT",-0.6597,0.0,0.253,0.747,Sun Nov 19 20:55:23 +0000 2017
+5,BBC,95,"RT @BBCOne: Around 8 million tonnes of plastic is dumped into the sea every year, affecting the lives of so many creatures. 😢 #BluePlanet2…",-0.4019,0.0,0.114,0.886,Sun Nov 19 20:48:26 +0000 2017
+6,BBC,94,Nine days at sea for one minute of TV. This is what it takes to film incredible scenes underwater. 🎥 🐠 #BluePlanet2… https://t.co/Z7fwWTWpAa,0.0,0.0,0.0,1.0,Sun Nov 19 20:28:03 +0000 2017
+7,BBC,93,RT @BBCOne: Hands up if you need to rest between bouts of feeding too. 🙋 #BluePlanet2 https://t.co/0eRKwzoO5z,0.0,0.0,0.0,1.0,Sun Nov 19 20:11:08 +0000 2017
+8,BBC,92,"'She, like all pop stars, must hunt to survive.' 😂 ❤️ David Attenborough narrates @Adele's 'Hello' video. Via… https://t.co/OhBWKRYElm",0.3612,0.128,0.0,0.872,Sun Nov 19 20:00:04 +0000 2017
+9,BBC,91,"RT @BBCEarth: They rarely attack humans, they're warm-blooded and give birth to 'pups' 
+#BluePlanet2 #OurBluePlanet https://t.co/XgLUbBVixK",0.3724,0.145,0.0,0.855,Sun Nov 19 19:59:53 +0000 2017
+10,BBC,90,"RT @bbcstrictly: .@JonniePeacock: Paralympian, #Strictly trailblazer and true inspiration 🙌 https://t.co/UsfLYf6n6I",0.7351,0.437,0.0,0.563,Sun Nov 19 19:57:40 +0000 2017
+11,BBC,89,"From George Clooney's tequila business to Beyonce's vegan delivery service, take a look at these random celebrity s… https://t.co/axhNKVFs9f",0.0,0.0,0.0,1.0,Sun Nov 19 19:33:04 +0000 2017
+12,BBC,88,"A wee bit of #ASMR (if that's what you're into 😏).
+Via @BBCTheSocial. https://t.co/fqP5S0a5R4",0.0,0.0,0.0,1.0,Sun Nov 19 19:00:05 +0000 2017
+13,BBC,87,A hard-hitting portrait of a 16-year old migrant has won the prestigious Taylor Wessing prize. 📷… https://t.co/aCpHU6cgYw,0.7906,0.35,0.0,0.65,Sun Nov 19 18:32:04 +0000 2017
+14,BBC,86,"How do you teach your kids which secrets are good and which are bad?
+This animation is designed to help children sp… https://t.co/MZueuZgePj",0.2732,0.192,0.12,0.687,Sun Nov 19 18:00:04 +0000 2017
+15,BBC,85,This drone footage of Iceland will remind you how wonderful our planet is. 🌈 🏔 https://t.co/9x5xszQthZ https://t.co/HjTSaD8344,0.5719,0.209,0.0,0.791,Sun Nov 19 17:20:04 +0000 2017
+16,BBC,84,"'We very much learnt as we went along.' @WiggyWalsh on writing #Motherland with @SharonHorgan, @GLinner and Helen L… https://t.co/pJRw7Oe56z",0.0,0.0,0.0,1.0,Sun Nov 19 16:36:04 +0000 2017
+17,BBC,83,"🌎 For those who think the Earth is a disc instead of a sphere, there is the @FlatEarthOrg International Conference.… https://t.co/n8Vgs10iMB",0.0,0.0,0.0,1.0,Sun Nov 19 16:00:01 +0000 2017
+18,BBC,82,"'When you start accepting the things that may seem like imperfections, they turn out to be perfect in the end.' Via… https://t.co/g1hRhWLRhx",0.8316,0.317,0.0,0.683,Sun Nov 19 15:30:05 +0000 2017
+19,BBC,81,RT @bbcthree: 13 year old Jack wants to prove disabled people shouldn't be written off. https://t.co/PW7vc2T3cp,0.0,0.0,0.0,1.0,Sun Nov 19 15:16:24 +0000 2017
+20,BBC,80,"Tonight, @WhisperingBob introduces highlights of the 51st annual #CMAAwards from Nashville, Tennessee. 10pm on… https://t.co/daG51sJnrG",0.0,0.0,0.0,1.0,Sun Nov 19 21:35:04 +0000 2017
+21,BBC,79,RT @BBCOne: Can’t type. Heart broken. 😫 #BluePlanet2 https://t.co/pfEmBqvNHz,-0.4767,0.0,0.307,0.693,Sun Nov 19 21:12:12 +0000 2017
+22,BBC,78,"RT @BBCEarth: This turtle was rescued by the #BluePlanet2 crew. As it wasn’t injured and could swim, it was released straight away.
+#BluePl…",0.25,0.172,0.099,0.73,Sun Nov 19 21:05:41 +0000 2017
+23,BBC,77,This is how Iceland got its young people to give up drink and drugs. Via BBC World Hacks. https://t.co/1qMGnLdwWe,0.0,0.0,0.0,1.0,Sun Nov 19 21:00:03 +0000 2017
+24,BBC,76,"How plastic is slowly killing our sea creatures, fish and birds: https://t.co/utSlBsw1d0 #BluePlanet2 😢 https://t.co/6oji1Q4YwT",-0.6597,0.0,0.253,0.747,Sun Nov 19 20:55:23 +0000 2017
+25,BBC,75,"RT @BBCOne: Around 8 million tonnes of plastic is dumped into the sea every year, affecting the lives of so many creatures. 😢 #BluePlanet2…",-0.4019,0.0,0.114,0.886,Sun Nov 19 20:48:26 +0000 2017
+26,BBC,74,Nine days at sea for one minute of TV. This is what it takes to film incredible scenes underwater. 🎥 🐠 #BluePlanet2… https://t.co/Z7fwWTWpAa,0.0,0.0,0.0,1.0,Sun Nov 19 20:28:03 +0000 2017
+27,BBC,73,RT @BBCOne: Hands up if you need to rest between bouts of feeding too. 🙋 #BluePlanet2 https://t.co/0eRKwzoO5z,0.0,0.0,0.0,1.0,Sun Nov 19 20:11:08 +0000 2017
+28,BBC,72,"'She, like all pop stars, must hunt to survive.' 😂 ❤️ David Attenborough narrates @Adele's 'Hello' video. Via… https://t.co/OhBWKRYElm",0.3612,0.128,0.0,0.872,Sun Nov 19 20:00:04 +0000 2017
+29,BBC,71,"RT @BBCEarth: They rarely attack humans, they're warm-blooded and give birth to 'pups' 
+#BluePlanet2 #OurBluePlanet https://t.co/XgLUbBVixK",0.3724,0.145,0.0,0.855,Sun Nov 19 19:59:53 +0000 2017
+30,BBC,70,"RT @bbcstrictly: .@JonniePeacock: Paralympian, #Strictly trailblazer and true inspiration 🙌 https://t.co/UsfLYf6n6I",0.7351,0.437,0.0,0.563,Sun Nov 19 19:57:40 +0000 2017
+31,BBC,69,"From George Clooney's tequila business to Beyonce's vegan delivery service, take a look at these random celebrity s… https://t.co/axhNKVFs9f",0.0,0.0,0.0,1.0,Sun Nov 19 19:33:04 +0000 2017
+32,BBC,68,"A wee bit of #ASMR (if that's what you're into 😏).
+Via @BBCTheSocial. https://t.co/fqP5S0a5R4",0.0,0.0,0.0,1.0,Sun Nov 19 19:00:05 +0000 2017
+33,BBC,67,A hard-hitting portrait of a 16-year old migrant has won the prestigious Taylor Wessing prize. 📷… https://t.co/aCpHU6cgYw,0.7906,0.35,0.0,0.65,Sun Nov 19 18:32:04 +0000 2017
+34,BBC,66,"How do you teach your kids which secrets are good and which are bad?
+This animation is designed to help children sp… https://t.co/MZueuZgePj",0.2732,0.192,0.12,0.687,Sun Nov 19 18:00:04 +0000 2017
+35,BBC,65,This drone footage of Iceland will remind you how wonderful our planet is. 🌈 🏔 https://t.co/9x5xszQthZ https://t.co/HjTSaD8344,0.5719,0.209,0.0,0.791,Sun Nov 19 17:20:04 +0000 2017
+36,BBC,64,"'We very much learnt as we went along.' @WiggyWalsh on writing #Motherland with @SharonHorgan, @GLinner and Helen L… https://t.co/pJRw7Oe56z",0.0,0.0,0.0,1.0,Sun Nov 19 16:36:04 +0000 2017
+37,BBC,63,"🌎 For those who think the Earth is a disc instead of a sphere, there is the @FlatEarthOrg International Conference.… https://t.co/n8Vgs10iMB",0.0,0.0,0.0,1.0,Sun Nov 19 16:00:01 +0000 2017
+38,BBC,62,"'When you start accepting the things that may seem like imperfections, they turn out to be perfect in the end.' Via… https://t.co/g1hRhWLRhx",0.8316,0.317,0.0,0.683,Sun Nov 19 15:30:05 +0000 2017
+39,BBC,61,RT @bbcthree: 13 year old Jack wants to prove disabled people shouldn't be written off. https://t.co/PW7vc2T3cp,0.0,0.0,0.0,1.0,Sun Nov 19 15:16:24 +0000 2017
+40,BBC,60,What do you see when you look at this picture? https://t.co/Fi1JJRFYhK https://t.co/XtKnTXw0Aw,0.0,0.0,0.0,1.0,Sun Nov 19 15:02:06 +0000 2017
+41,BBC,59,RT @BBCNews: London buses to be powered by coffee https://t.co/9jFMc4fMyy,0.0,0.0,0.0,1.0,Sun Nov 19 14:58:32 +0000 2017
+42,BBC,58,"RT @BBCEarth: Every feed is a family effort for these giants of the sea 🐋
+#BluePlanet2 https://t.co/DkK96imCiT",0.0,0.0,0.0,1.0,Sun Nov 19 14:57:50 +0000 2017
+43,BBC,57,Jason Mamoa speaks Dothraki. 😍 Via @BBCOne. https://t.co/YjJEARLTCi,0.0,0.0,0.0,1.0,Sun Nov 19 14:30:05 +0000 2017
+44,BBC,56,"From Justin Bieber to The Beatles, here are 8 of the most disastrous tours in music history. 🎶 😳… https://t.co/IufMhgzhG7",-0.6361,0.0,0.198,0.802,Sun Nov 19 13:41:03 +0000 2017
+45,BBC,55,🎬 @JimCarrey stars in the biopic of controversial comedian Andy Kaufman. Man on the Moon is available on… https://t.co/rS0Sou22u5,0.2023,0.127,0.088,0.784,Sun Nov 19 13:03:03 +0000 2017
+46,BBC,54,🎨 Ten female artists from around the world that should be on your radar. https://t.co/iFXHGQC7LC https://t.co/nz6z5GD1bL,0.0,0.0,0.0,1.0,Sun Nov 19 12:33:04 +0000 2017
+47,BBC,53,"Is David the happiest traffic warden in Scotland?
+
+Catch up on #TheCountryCouncil on @BBCiPlayer 👉… https://t.co/yIPgJ26W2H",0.6369,0.219,0.0,0.781,Sun Nov 19 12:00:03 +0000 2017
+48,BBC,52,Australians have overwhelmingly voted in favour of legalising same-sex marriage in a historic poll. 🏳️‍🌈… https://t.co/4sPwrGH6Ta,0.34,0.167,0.086,0.747,Sun Nov 19 11:00:06 +0000 2017
+49,BBC,51,How @SimonCowell stepped in to pay for a young dancer’s scoliosis surgery. Via @BBC5Live. https://t.co/DMTefMhk91,-0.1027,0.0,0.097,0.903,Sun Nov 19 10:00:01 +0000 2017
+50,BBC,50,This Australian island with pink lakes and spectacular marine life was discovered by accident. Via @BBC_Travel. 🇦🇺… https://t.co/mbEkjML5bn,-0.4767,0.0,0.154,0.846,Sun Nov 19 09:35:04 +0000 2017
+51,BBC,49,"⏰ 😴 If it takes six alarm clocks and a strong cup of coffee to get you out of bed, you need to read this. Eight way… https://t.co/dAQx85QB4O",0.2263,0.115,0.084,0.801,Sun Nov 19 08:57:04 +0000 2017
+52,BBC,48,"When Tantor the elephant cracked his tusk, it took 30 people to give him root canal surgery. 🐘 Via @BBC5Live. https://t.co/R0236y3kcg",0.0,0.0,0.0,1.0,Sun Nov 19 08:30:07 +0000 2017
+53,BBC,47,Think our Novembers are a bit chilly? This is what it's like to grow up in -60C. 🌨 ❄️ https://t.co/ABRhquy09B https://t.co/YO5CJmSmdX,0.3612,0.122,0.0,0.878,Sun Nov 19 08:03:03 +0000 2017
+54,BBC,46,RT @BBCNews: New portrait marks Queen and Prince Philip's 70th anniversary https://t.co/eBm1oJ8fzp,0.0,0.0,0.0,1.0,Sat Nov 18 23:29:41 +0000 2017
+55,BBC,45,People from across Great Britain air their views on the country they call home. My Country: A Work in Progress. 9pm… https://t.co/jEQsfUy0hW,0.7845,0.266,0.0,0.734,Sat Nov 18 19:33:03 +0000 2017
+56,BBC,44,😂 Isla takes on celebrity culture. Via @BBCScotland. https://t.co/yuWueCdK0w,0.0,0.0,0.0,1.0,Sat Nov 18 19:00:05 +0000 2017
+57,BBC,43,Meet the 7-year-old neuroscientist wowing the internet. 🔬 Via @BBCTrending. https://t.co/WXmU7xWr1f,0.5423,0.28,0.0,0.72,Sat Nov 18 18:30:05 +0000 2017
+58,BBC,42,"Michael McIntyre's Big Show is back! ✨ Tonight, @McInTweet is joined by @EmeliSande, @JoeLycett and @Edballs.… https://t.co/LtH4Y2x6Tq",0.0,0.0,0.0,1.0,Sat Nov 18 18:02:03 +0000 2017
+59,BBC,41,"🚗 🌊 🇿🇦 'The world's most beautiful road', Chapman’s Peak Drive is both a marvel of engineering and a breathtaking s… https://t.co/SISxQjX3fw",0.8748,0.4,0.0,0.6,Sat Nov 18 17:34:05 +0000 2017
+60,BBC,40,"🐶💦 What gives a wet dog that particular smell? Here's the science... 
+Via @BBCWorldService. https://t.co/BSzxBS8UvF",0.0,0.0,0.0,1.0,Sat Nov 18 17:00:07 +0000 2017
+61,BBC,39,'I had a stroke linked to taking the pill. Doctors had told me it was a migraine'. https://t.co/aDIu6Octze https://t.co/qEfMheKJSj,0.0,0.0,0.0,1.0,Sat Nov 18 16:18:04 +0000 2017
+62,BBC,38,❤️️What you should &amp; shouldn't say to a friend who's struggling with mental health. You shared some great advice.… https://t.co/GwRKxK0Oc3,0.2668,0.241,0.202,0.557,Sat Nov 18 15:30:04 +0000 2017
+63,BBC,37,RT @bbcstrictly: #Blackpool Dress Run is done! See you at 6.45pm @BBCOne #strictly 🎢 https://t.co/JoHDF78Y6Y,0.0,0.0,0.0,1.0,Sat Nov 18 15:13:08 +0000 2017
+64,BBC,36,"RT @CBeebiesHQ: David Tennant is in CBeebies House for our story tonight!😁
+
+He's got away from doing the #W1A voiceover to read Small Mouse…",0.0,0.0,0.0,1.0,Sat Nov 18 14:58:59 +0000 2017
+65,BBC,35,Australian guitarist and AC/DC co-founder Malcolm Young dies at 64 after long battle with dementia.… https://t.co/kW53ayZBUP,-0.3818,0.0,0.148,0.852,Sat Nov 18 14:57:35 +0000 2017
+66,BBC,34,"The wrestling industry isn't known for LGBT representation, but drag wrestler @TheBoyDiva is hoping to change that.… https://t.co/PNt0BgEoL2",0.3291,0.168,0.107,0.726,Sat Nov 18 14:30:06 +0000 2017
+67,BBC,33,Here's why scientists are using teeth to make brains. 🔬 Via @TWBBC  https://t.co/QG43INn64w,0.0,0.0,0.0,1.0,Sat Nov 18 13:32:01 +0000 2017
+68,BBC,32,"Apparently, the Nutella recipe has changed and chocolate spread fans are not impressed. 😦 https://t.co/A64qVtYIYG https://t.co/zMcxqtSiSs",-0.3724,0.0,0.154,0.846,Sat Nov 18 13:03:04 +0000 2017
+69,BBC,31,"If #BluePlanet2 has inspired you to help protect our oceans, here's how you can help. 🌊 https://t.co/ymro9Ia716 https://t.co/vC1qGrep3e",0.8807,0.463,0.0,0.537,Sat Nov 18 12:33:04 +0000 2017
+70,BBC,30,The origins of the spectacular 5000 year-old #CallanishStones on the Isle of Lewis. Via @BBCScotland. https://t.co/qHQhxd5VwD,0.0,0.0,0.0,1.0,Sat Nov 18 12:00:05 +0000 2017
+71,BBC,29,"Need some Christmas cake inspiration? Take a look at these festive recipes from @Frances_Quinn, Delia Smith, Mary B… https://t.co/csZNzwVh86",0.7506,0.286,0.0,0.714,Sat Nov 18 11:33:03 +0000 2017
+72,BBC,28,England’s 500-year-old angel roofs are a medieval marvel few people know. 👼⛪️ https://t.co/2wPv0qjdRp https://t.co/sw5UaZLgbC,0.4215,0.189,0.0,0.811,Sat Nov 18 10:59:17 +0000 2017
+73,BBC,27,"A single tentacle from a Portugese man o' war can kill a fish, or in rare cases... a human. 😬
+
+#BuePlanet2 via… https://t.co/LCmGVkZQ26",-0.8625,0.0,0.35,0.65,Sat Nov 18 10:30:04 +0000 2017
+74,BBC,26,"They're making maps to save lives 📌🌍
+Via BBC World Hacks. https://t.co/FgAHDztR0x",0.4939,0.225,0.0,0.775,Sat Nov 18 10:00:05 +0000 2017
+75,BBC,25,How much do you really know about coral reefs? Take this quiz to test your knowledge. 🐠 🐙 🐟 https://t.co/9rOhbcE5gj https://t.co/60U9U3sJjd,0.0,0.0,0.0,1.0,Sat Nov 18 09:34:05 +0000 2017
+76,BBC,24,Here's what the weather has been looking like around the world. 🌨⚡️⛅️ https://t.co/TTYG5JmFJ1 https://t.co/ntA8J7vC69,0.3612,0.161,0.0,0.839,Sat Nov 18 09:03:08 +0000 2017
+77,BBC,23,A new map of Antarctica has revealed the levels of heat beneath the ice. ❄️🌡 https://t.co/nQIXCOLDMI https://t.co/RoJHTV0DdV,0.0,0.0,0.0,1.0,Sat Nov 18 08:34:05 +0000 2017
+78,BBC,22,How much do you really know about Paddington Bear? Test your knowledge in this quiz. 🐻 💼 ❤️️ https://t.co/r2Vwd81oqY https://t.co/ILAsJpQrOC,0.0,0.0,0.0,1.0,Sat Nov 18 08:04:05 +0000 2017
+79,BBC,21,"RT @BBCCiN: Amazing ⭐️ £50,168,562 ⭐️
+
+Thanks to you we can change thousands more young lives in the UK
+
+#CiN https://t.co/eWBaySv0LC",0.7717,0.261,0.0,0.739,Sat Nov 18 00:55:02 +0000 2017
+80,BBC,20,RT @BBCLookNorth: Thanks for your Children in Need donations so far! We'll bring you updates throughout the night #CiN https://t.co/3m5Kg21…,0.4926,0.144,0.0,0.856,Sat Nov 18 00:41:40 +0000 2017
+81,BBC,19,"RT @BBCCiN: Another one not to miss - our @PoldarkTV special 👀
+
+Watch now ➡ https://t.co/DKczEhe5DN #CiN https://t.co/BB9NCwNc3U",0.4843,0.242,0.0,0.758,Sat Nov 18 00:41:37 +0000 2017
+82,BBC,18,"RT @BBCCiN: 🎶 Tiptoe time 🎶
+
+@JasonDerulo WORLD EXCLUSIVE 😎
+
+Watch live ➡ https://t.co/DKczEhe5DN #CiN https://t.co/4YbnVAq8TE",0.3034,0.169,0.0,0.831,Sat Nov 18 00:41:34 +0000 2017
+83,BBC,17,RT @BBCCiN: Having a ball with our #cin @Snapchat filter and @TheVampsband 📸👌🏼do your thing and send us your snaps! https://t.co/cLJX8z3wOg,0.0,0.0,0.0,1.0,Fri Nov 17 23:45:51 +0000 2017
+84,BBC,16,"RT @BBCCiN: Your support means we can help children facing poverty
+
+Please give what you can https://t.co/HkSxqBgXP4 #CiN https://t.co/I3Wd…",0.5267,0.296,0.127,0.577,Fri Nov 17 23:45:42 +0000 2017
+85,BBC,15,"RT @BBCCiN: Here's a treat...
+
+😯 @SamSmithworld with a WORLD EXCLUSIVE!  😯
+
+To donate ➡ https://t.co/HkSxqBgXP4 #CiN https://t.co/mNXZuIRV4K",0.3664,0.174,0.0,0.826,Fri Nov 17 23:38:42 +0000 2017
+86,BBC,14,"RT @BBCCiN: Another look to Christmas with a @callthemidwife1 special 🎄
+
+It's starting to feel festive!
+
+Watch live ➡ https://t.co/DKczEhe5…",0.7177,0.285,0.0,0.715,Fri Nov 17 23:26:39 +0000 2017
+87,BBC,13,"RT @BBCCiN: ICYMI: @RItaOra performs 'Anywhere' 🎶
+
+More to come #CiN
+
+Stay with us ➡ https://t.co/DKczEhe5DN https://t.co/HAlC8BxGVj",0.0,0.0,0.0,1.0,Fri Nov 17 23:26:22 +0000 2017
+88,BBC,12,"The man of the hour, Mr @OreOduba! 👏
+Watch live here ➡ https://t.co/sUBqotJEU9  
+#CiN https://t.co/Jpu0Fsx9Ve",0.0,0.0,0.0,1.0,Fri Nov 17 23:17:52 +0000 2017
+89,BBC,11,RT @BBCCiN: #Pudsey pal @MrPeterAndre chats all things #CiN with backstage host @Lindsey_Chapman https://t.co/xejkXp4mbA,0.0,0.0,0.0,1.0,Fri Nov 17 23:16:26 +0000 2017
+90,BBC,10,RT @BBCCiN: The wonderful @KatieMelua catches up with @Lindsey_Chapman backstage at #CiN https://t.co/OMUO7cvOJQ,0.5719,0.236,0.0,0.764,Fri Nov 17 23:16:12 +0000 2017
+91,BBC,9,#Pudsey &amp; @Lindsey_Chapman are getting up close &amp; personal (😉) with @TheVampsBand before they hit the stage for… https://t.co/F64WDBDtLP,0.0,0.0,0.0,1.0,Fri Nov 17 23:15:18 +0000 2017
+92,BBC,8,"RT @BBCCiN: This is Noah &amp; Gracies' story told by @SamSmithWorld
+
+It's upsetting but very important
+
+Please give at https://t.co/HkSxqBgXP4…",0.6068,0.24,0.082,0.678,Fri Nov 17 22:58:27 +0000 2017
+93,BBC,7,"RT @BBCCiN: And the second totaliser is...£33,698,156
+
+Unberlievable, thank you! #CiN https://t.co/w84iKzparQ",0.4199,0.202,0.0,0.798,Fri Nov 17 22:41:30 +0000 2017
+94,BBC,6,"RT @BBCCiN: ""And the winner...@chizzyakudolu 🥇
+
+ You are the strongest link! 👍
+
+Watch live ➡ https://t.co/DKczEhe5DN #CiN"" https://t.co/3VX…",0.4926,0.186,0.0,0.814,Fri Nov 17 22:41:10 +0000 2017
+95,BBC,5,"Backstage at #ChildrenInNeed with the wonderfully talented @KatieMelua. 
+
+How stunning was her performance of Field… https://t.co/OqzHXBT5H8",0.8689,0.43,0.0,0.57,Fri Nov 17 22:19:59 +0000 2017
+96,BBC,4,"💛@MrPeterAndre sat down with @Lindsey_Chapman &amp; #Pudsey to talk about what #ChildrenInNeed means to him.
+
+#CiN https://t.co/Tq3f2QtruG",0.0,0.0,0.0,1.0,Fri Nov 17 22:15:20 +0000 2017
+97,BBC,3,"Did somebody call the Doctor?
+@BBCCiN have a sneak peek of the #DoctorWho Christmas special! 🎄🎁
+
+Watch live ➡… https://t.co/9fiw8vsrSS",0.4574,0.143,0.0,0.857,Fri Nov 17 22:02:05 +0000 2017
+98,BBC,2,"RT @BBCCiN: What a first half!
+
+Stay with us, we're off to @BBCTwo for The Weakest Link with @AnneRobinsonTV 😉  
+
+Lots more to come #CiN ht…",-0.5562,0.0,0.135,0.865,Fri Nov 17 22:00:35 +0000 2017
+99,BBC,1,"RT @BBCCiN: Katie Melua is live with 'Fields of Gold'
+
+Watch ➡ https://t.co/DKczEhe5DN #CiN https://t.co/j8DyYUzfbC",0.0,0.0,0.0,1.0,Fri Nov 17 21:57:27 +0000 2017
+100,CNN,100,"Jared Kushner's lawyer says the Senate Judiciary Committee is playing ""gotcha games"" by accusing him of not disclos… https://t.co/PthSHL3j39",0.0258,0.088,0.083,0.829,Mon Nov 20 02:38:41 +0000 2017
+101,CNN,99,Afghan commandos rescue 15 people from a Taliban prison https://t.co/j9cZa8lV6f https://t.co/fYQDIA9kr3,0.0,0.226,0.226,0.548,Mon Nov 20 02:20:49 +0000 2017
+102,CNN,98,"Sen. Al Franken has been cut from the TV broadcast of ""David Letterman: The Mark Twain Prize"" after allegations of… https://t.co/zrTGW5mMx2",0.296,0.135,0.086,0.779,Mon Nov 20 02:02:33 +0000 2017
+103,CNN,97,Fox News defends Sean Hannity amid calls for ad boycott https://t.co/X0Qr6yTf4V https://t.co/Hs6rgA5fdE,-0.3182,0.0,0.173,0.827,Mon Nov 20 01:44:28 +0000 2017
+104,CNN,96,"A missing Argentine submarine attempted to contact naval bases via satellite seven times, but communication with th… https://t.co/vPmRqRVCOX",-0.1531,0.0,0.091,0.909,Mon Nov 20 01:20:39 +0000 2017
+105,CNN,95,"Jeffrey Tambor signals he may not return to ""Transparent"" after harassment claims https://t.co/5uSbV0gJEz https://t.co/zdGJMfDFJW",-0.5423,0.0,0.212,0.788,Mon Nov 20 00:56:29 +0000 2017
+106,CNN,94,"Arab League states condemn Hezbollah as a ""terrorist organization"" https://t.co/cefRk3A8Vt https://t.co/NWRyoQh0B3",-0.8074,0.0,0.477,0.523,Mon Nov 20 00:38:20 +0000 2017
+107,CNN,93,Jesse Brown battled poverty and racism to become the US Navy's first black pilot. Two of his biggest allies were wh… https://t.co/jgcGrxRGYP,-0.8625,0.0,0.336,0.664,Mon Nov 20 00:18:45 +0000 2017
+108,CNN,92,Watch @AndersonCooper show you how to vote for the CNN Hero of the Year at https://t.co/Uc45POmhyz  #CNNHeroes https://t.co/cAsmnPJy6U,0.5574,0.175,0.0,0.825,Mon Nov 20 00:01:07 +0000 2017
+109,CNN,91,"Here's why White House aides worry about Trump's Mar-a-Lago holiday
+https://t.co/pkpWWSIAkq https://t.co/7MROOtE92d",-0.0516,0.173,0.186,0.641,Sun Nov 19 23:41:34 +0000 2017
+110,CNN,90,"The Georgia Dome, the only facility in the world to host the Olympics, Super Bowl and Final Four soon will be reduc… https://t.co/WJRDhdSjY6",0.5994,0.151,0.0,0.849,Sun Nov 19 23:23:33 +0000 2017
+111,CNN,89,Media Matters President Angelo Carusone explains why he's leading an advertising boycott against Fox News host Sean… https://t.co/0jiACDd93V,-0.296,0.057,0.119,0.825,Sun Nov 19 23:02:57 +0000 2017
+112,CNN,88,A new NASA tool can tell you which glacier may flood your city as the planet warms https://t.co/EHcGq7ZGor https://t.co/MrHyIrFUv7,0.2732,0.11,0.0,0.89,Sun Nov 19 22:46:46 +0000 2017
+113,CNN,87,Zimbabwe President Mugabe refuses to step down from the presidency- paving the way for his party to impeach him in… https://t.co/el0hxUQqRv,0.4019,0.119,0.0,0.881,Sun Nov 19 22:29:24 +0000 2017
+114,CNN,86,Star Tribune: Sen. Al Franken won't resign in the wake of a woman saying Franken forcibly kissed her and groped her… https://t.co/Jt00tFtxEy,0.5627,0.196,0.0,0.804,Sun Nov 19 22:16:02 +0000 2017
+115,CNN,85,Do we love our guns more than our children? (via @CNNOpinion) https://t.co/vmbew5iZcH https://t.co/aKUu7AVtmn,0.6369,0.259,0.0,0.741,Sun Nov 19 21:58:30 +0000 2017
+116,CNN,84,"President Trump shot back at Lavar Ball, the father of one of the UCLA basketball players arrested in China, for be… https://t.co/llstwHIIHh",-0.4767,0.0,0.129,0.871,Sun Nov 19 21:50:13 +0000 2017
+117,CNN,83,You’ll have plenty of ways to make your Instagram friends jealous when you’re in Seattle. Explore the city w/… https://t.co/0vpPhuaI6E,0.0258,0.129,0.124,0.747,Sun Nov 19 21:44:17 +0000 2017
+118,CNN,82,"Cards Against Humanity, a card game company known for its attention-seeking pranks, says it bought land on the US-M… https://t.co/zVBya01Ogk",0.0,0.0,0.0,1.0,Sun Nov 19 21:37:50 +0000 2017
+119,CNN,81,The family of a 5-year-old boy crushed in a rotating Atlanta restaurant files a lawsuit https://t.co/2RfsGOxS9m https://t.co/Wai5ngiCPh,-0.5719,0.0,0.281,0.719,Sun Nov 19 21:29:50 +0000 2017
+120,CNN,80,"Jared Kushner's lawyer says the Senate Judiciary Committee is playing ""gotcha games"" by accusing him of not disclos… https://t.co/PthSHL3j39",0.0258,0.088,0.083,0.829,Mon Nov 20 02:38:41 +0000 2017
+121,CNN,79,Afghan commandos rescue 15 people from a Taliban prison https://t.co/j9cZa8lV6f https://t.co/fYQDIA9kr3,0.0,0.226,0.226,0.548,Mon Nov 20 02:20:49 +0000 2017
+122,CNN,78,"Sen. Al Franken has been cut from the TV broadcast of ""David Letterman: The Mark Twain Prize"" after allegations of… https://t.co/zrTGW5mMx2",0.296,0.135,0.086,0.779,Mon Nov 20 02:02:33 +0000 2017
+123,CNN,77,Fox News defends Sean Hannity amid calls for ad boycott https://t.co/X0Qr6yTf4V https://t.co/Hs6rgA5fdE,-0.3182,0.0,0.173,0.827,Mon Nov 20 01:44:28 +0000 2017
+124,CNN,76,"A missing Argentine submarine attempted to contact naval bases via satellite seven times, but communication with th… https://t.co/vPmRqRVCOX",-0.1531,0.0,0.091,0.909,Mon Nov 20 01:20:39 +0000 2017
+125,CNN,75,"Jeffrey Tambor signals he may not return to ""Transparent"" after harassment claims https://t.co/5uSbV0gJEz https://t.co/zdGJMfDFJW",-0.5423,0.0,0.212,0.788,Mon Nov 20 00:56:29 +0000 2017
+126,CNN,74,"Arab League states condemn Hezbollah as a ""terrorist organization"" https://t.co/cefRk3A8Vt https://t.co/NWRyoQh0B3",-0.8074,0.0,0.477,0.523,Mon Nov 20 00:38:20 +0000 2017
+127,CNN,73,Jesse Brown battled poverty and racism to become the US Navy's first black pilot. Two of his biggest allies were wh… https://t.co/jgcGrxRGYP,-0.8625,0.0,0.336,0.664,Mon Nov 20 00:18:45 +0000 2017
+128,CNN,72,Watch @AndersonCooper show you how to vote for the CNN Hero of the Year at https://t.co/Uc45POmhyz  #CNNHeroes https://t.co/cAsmnPJy6U,0.5574,0.175,0.0,0.825,Mon Nov 20 00:01:07 +0000 2017
+129,CNN,71,"Here's why White House aides worry about Trump's Mar-a-Lago holiday
+https://t.co/pkpWWSIAkq https://t.co/7MROOtE92d",-0.0516,0.173,0.186,0.641,Sun Nov 19 23:41:34 +0000 2017
+130,CNN,70,"The Georgia Dome, the only facility in the world to host the Olympics, Super Bowl and Final Four soon will be reduc… https://t.co/WJRDhdSjY6",0.5994,0.151,0.0,0.849,Sun Nov 19 23:23:33 +0000 2017
+131,CNN,69,Media Matters President Angelo Carusone explains why he's leading an advertising boycott against Fox News host Sean… https://t.co/0jiACDd93V,-0.296,0.057,0.119,0.825,Sun Nov 19 23:02:57 +0000 2017
+132,CNN,68,A new NASA tool can tell you which glacier may flood your city as the planet warms https://t.co/EHcGq7ZGor https://t.co/MrHyIrFUv7,0.2732,0.11,0.0,0.89,Sun Nov 19 22:46:46 +0000 2017
+133,CNN,67,Zimbabwe President Mugabe refuses to step down from the presidency- paving the way for his party to impeach him in… https://t.co/el0hxUQqRv,0.4019,0.119,0.0,0.881,Sun Nov 19 22:29:24 +0000 2017
+134,CNN,66,Star Tribune: Sen. Al Franken won't resign in the wake of a woman saying Franken forcibly kissed her and groped her… https://t.co/Jt00tFtxEy,0.5627,0.196,0.0,0.804,Sun Nov 19 22:16:02 +0000 2017
+135,CNN,65,Do we love our guns more than our children? (via @CNNOpinion) https://t.co/vmbew5iZcH https://t.co/aKUu7AVtmn,0.6369,0.259,0.0,0.741,Sun Nov 19 21:58:30 +0000 2017
+136,CNN,64,"President Trump shot back at Lavar Ball, the father of one of the UCLA basketball players arrested in China, for be… https://t.co/llstwHIIHh",-0.4767,0.0,0.129,0.871,Sun Nov 19 21:50:13 +0000 2017
+137,CNN,63,You’ll have plenty of ways to make your Instagram friends jealous when you’re in Seattle. Explore the city w/… https://t.co/0vpPhuaI6E,0.0258,0.129,0.124,0.747,Sun Nov 19 21:44:17 +0000 2017
+138,CNN,62,"Cards Against Humanity, a card game company known for its attention-seeking pranks, says it bought land on the US-M… https://t.co/zVBya01Ogk",0.0,0.0,0.0,1.0,Sun Nov 19 21:37:50 +0000 2017
+139,CNN,61,The family of a 5-year-old boy crushed in a rotating Atlanta restaurant files a lawsuit https://t.co/2RfsGOxS9m https://t.co/Wai5ngiCPh,-0.5719,0.0,0.281,0.719,Sun Nov 19 21:29:50 +0000 2017
+140,CNN,60,The degenerative brain disease CTE has been confirmed in a living NFL player for the first time… https://t.co/378FmdoXJv,0.0,0.0,0.0,1.0,Sun Nov 19 21:21:38 +0000 2017
+141,CNN,59,Pope Francis wants you to do him a favor. The next time you're in Mass — put down your cell phone.… https://t.co/disMRVCeaV,0.4019,0.124,0.0,0.876,Sun Nov 19 21:04:54 +0000 2017
+142,CNN,58,"Sen. Bernie Sanders slams GOP tax bill: “They are going to come back with massive cuts to Social Security, Medicare… https://t.co/36yBsjW3Wc",0.0516,0.102,0.093,0.805,Sun Nov 19 20:46:47 +0000 2017
+143,CNN,57,"Jared Kushner's attorney, Abbe Lowell, pushes back on claims Kushner failed to turn over documents calling it a ""mi… https://t.co/rPiCaeYH8J",-0.5106,0.0,0.155,0.845,Sun Nov 19 20:40:13 +0000 2017
+144,CNN,56,"More than 16,000 scientists have signed a dire warning to humanity advising that we need to fix our environmental p… https://t.co/tWEhZhRBUN",-0.6597,0.0,0.231,0.769,Sun Nov 19 20:37:40 +0000 2017
+145,CNN,55,"Despite being given an ultimatum by Zimbabwe's military, Robert Mugabe did not resign. @McKenzieCNN explains what h… https://t.co/6py90dsQou",0.2584,0.107,0.0,0.893,Sun Nov 19 20:31:17 +0000 2017
+146,CNN,54,"Lena Dunham apologizes for speaking in defense of her ""Girls"" colleague https://t.co/ztSOYt4i6v https://t.co/WdghP7lcZa",0.4588,0.267,0.0,0.733,Sun Nov 19 20:28:27 +0000 2017
+147,CNN,53,Bill Gates has a new mission: To find a cure for Alzheimer's https://t.co/xRUfJhHjwS https://t.co/u82IkE6z5V,0.0,0.0,0.0,1.0,Sun Nov 19 20:19:23 +0000 2017
+148,CNN,52,A new NASA tool can tell you which glacier may flood your city as the planet warms https://t.co/GMPArBvD0n https://t.co/oLpTez7rLO,0.2732,0.11,0.0,0.89,Sun Nov 19 20:10:12 +0000 2017
+149,CNN,51,JUST IN: Zimbabwe President Mugabe refuses to step down from the presidency- paving the way for his party to impeac… https://t.co/Z5f52w0lKv,0.4019,0.119,0.0,0.881,Sun Nov 19 20:00:38 +0000 2017
+150,CNN,50,Billionaire Ray Dalio is calling code red on the US economy after a study finds America's 3 richest men have more w… https://t.co/bQiS2QfLzh,0.5267,0.145,0.0,0.855,Sun Nov 19 19:53:56 +0000 2017
+151,CNN,49,"Rep. Francis Rooney on Roy Moore: ""There's an awful lot of smoke and maybe there's some fire... I'm kind of coming… https://t.co/ye0H5vZHbJ",-0.4588,0.0,0.125,0.875,Sun Nov 19 19:51:24 +0000 2017
+152,CNN,48,"A missing Argentine submarine attempted to contact naval bases via satellite seven times, but communication with th… https://t.co/UeU5beRZYi",-0.1531,0.0,0.091,0.909,Sun Nov 19 19:33:10 +0000 2017
+153,CNN,47,"President Trump shot back at Lavar Ball, the father of one of the UCLA basketball players arrested in China, for be… https://t.co/Nbi7cFdjpa",-0.4767,0.0,0.129,0.871,Sun Nov 19 19:23:43 +0000 2017
+154,CNN,46,"Here's why White House aides worry about Trump's Mar-a-Lago holiday
+https://t.co/nD5qAPKsZH https://t.co/WAepfJHpC9",-0.0516,0.173,0.186,0.641,Sun Nov 19 19:14:58 +0000 2017
+155,CNN,45,"""Come Back Barack"" sings ""Saturday Night Live"" host Chance the Rapper in a show full of musical numbers… https://t.co/Rqaz05kdbs",0.25,0.105,0.0,0.895,Sun Nov 19 19:05:32 +0000 2017
+156,CNN,44,The degenerative brain disease CTE has been confirmed in a living NFL player for the first time… https://t.co/1KORQ1fbFW,0.0,0.0,0.0,1.0,Sun Nov 19 18:50:19 +0000 2017
+157,CNN,43,LaVar Ball has belittled President Trump's role in the release of his son and two other UCLA basketball players who… https://t.co/BGksdablG5,-0.4588,0.0,0.13,0.87,Sun Nov 19 18:40:42 +0000 2017
+158,CNN,42,The family of a 5-year-old boy crushed in a rotating Atlanta restaurant files a lawsuit https://t.co/P9OKRSqS1b https://t.co/7B6AXyxG9r,-0.5719,0.0,0.281,0.719,Sun Nov 19 18:31:26 +0000 2017
+159,CNN,41,Follow the latest updates on Zimbabwe President Mugabe: Will he resign or be forced out? https://t.co/iO9kaGbUfh https://t.co/OvGXIEa7p6,-0.6597,0.0,0.265,0.735,Sun Nov 19 18:22:09 +0000 2017
+160,CNN,40,Zimbabwe's ruling party has expelled Robert Mugabe as its chief and set a Monday deadline for the leader to end his… https://t.co/FaJq9xfoaZ,0.1779,0.114,0.084,0.802,Sun Nov 19 18:03:29 +0000 2017
+161,CNN,39,Republican Sen. Susan Collins said she does not believe Alabama Republican Senate candidate Roy Moore's denials of… https://t.co/9112BrYu5I,0.0,0.0,0.0,1.0,Sun Nov 19 17:44:51 +0000 2017
+162,CNN,38,Jesse Brown battled poverty and racism to become the US Navy's first black pilot. Two of his biggest allies were wh… https://t.co/wLWTvO53qS,-0.8625,0.0,0.336,0.664,Sun Nov 19 17:26:10 +0000 2017
+163,CNN,37,Media Matters President Angelo Carusone explains why he's leading an advertising boycott against Sean Hannity https://t.co/07LDd6Rm9P,-0.296,0.063,0.132,0.805,Sun Nov 19 17:15:07 +0000 2017
+164,CNN,36,"David Cassidy, the '70s heartthrob who shot to fame when he starred in ""The Partridge Family,"" is in critical condi… https://t.co/oOTb3sdq32",0.1531,0.12,0.095,0.785,Sun Nov 19 17:07:07 +0000 2017
+165,CNN,35,"""It was pretty obvious it was a media photo op"" says Jacquelyn Martin, the photographer behind the Mnuchin 'money s… https://t.co/irn5DGPmRF",0.4939,0.144,0.0,0.856,Sun Nov 19 17:06:33 +0000 2017
+166,CNN,34,"""Saturday Night Live"" takes on Senator, and former 'SNL' performer, Al Franken in their ""Weekend Update""… https://t.co/hR9UkLnsyW",0.0,0.0,0.0,1.0,Sun Nov 19 17:00:24 +0000 2017
+167,CNN,33,Zimbabwe's military have given Robert Mugabe two choices: Resign or be forced out. Follow the latest developments v… https://t.co/Ymts5Qe489,-0.6597,0.0,0.241,0.759,Sun Nov 19 16:58:38 +0000 2017
+168,CNN,32,"Washingtonian's Elaina Plott: Trump's silence on Roy Moore is ""pure tribalism... Ultimately Roy Moore is someone wh… https://t.co/AGej291NCx",0.0,0.0,0.0,1.0,Sun Nov 19 16:41:39 +0000 2017
+169,CNN,31,RT @ReliableSources: Alabama's biggest papers urge voters to 'reject Roy Moore' but the Washingtonian's Elaina Plot says many of Moore's su…,-0.2144,0.0,0.085,0.915,Sun Nov 19 16:30:54 +0000 2017
+170,CNN,30,"Salman Rushdie: The tide is turning against Islamic fanaticism; it's still a cancer within Islam, but it's ""having… https://t.co/dFdzqIakEZ",-0.4019,0.0,0.137,0.863,Sun Nov 19 16:21:38 +0000 2017
+171,CNN,29,"""Come Back Barack"" sings ""Saturday Night Live"" host Chance the Rapper in a show full of musical numbers… https://t.co/oXpn4QXcQP",0.25,0.105,0.0,0.895,Sun Nov 19 16:02:08 +0000 2017
+172,CNN,28,"More than 16,000 scientists have signed a dire warning to humanity advising that we need to fix our environmental p… https://t.co/BW4woVrVKK",-0.6597,0.0,0.231,0.769,Sun Nov 19 15:45:15 +0000 2017
+173,CNN,27,Billionaire Ray Dalio is calling code red on the US economy after a study finds America's 3 richest men have more w… https://t.co/Xq7FQnYrGZ,0.5267,0.145,0.0,0.855,Sun Nov 19 15:42:51 +0000 2017
+174,CNN,26,"RT @ReliableSources: Today's guest list:
+@GoAngelo
+@elainaplott
+@acvollers
+@Jacquelyn_M
+@WJCarter
+@ciullalipkin
+@mffisher
+@TonyAtamanuik
+11…",0.0,0.0,0.0,1.0,Sun Nov 19 15:33:38 +0000 2017
+175,CNN,25,Pope Francis wants you to do him a favor. The next time you're in Mass — put down your cell phone.… https://t.co/QFBBIAKTYH,0.4019,0.124,0.0,0.876,Sun Nov 19 15:30:10 +0000 2017
+176,CNN,24,CNN's @FareedZakaria: President Trump is backing Saudi Arabia &amp; that could be dangerous https://t.co/9LNyhQV1mK,-0.4588,0.068,0.191,0.741,Sun Nov 19 15:16:27 +0000 2017
+177,CNN,23,A new NASA tool can tell you which glacier may flood your city as the planet warms https://t.co/9hUH3im7b2 https://t.co/vaypFEtmQU,0.2732,0.11,0.0,0.89,Sun Nov 19 15:15:04 +0000 2017
+178,CNN,22,"More than 16,000 scientists have signed a dire warning to humanity advising that we need to fix our environmental p… https://t.co/pQnar9qgnx",-0.6597,0.0,0.231,0.769,Sun Nov 19 15:00:13 +0000 2017
+179,CNN,21,"RT @CNNSotu: On #CNNSOTU @SenSanders tells @jaketapper that Franken's fate ""rests with the people of Minnesota"" https://t.co/rCe2WrGMrC",0.0,0.0,0.0,1.0,Sun Nov 19 14:59:07 +0000 2017
+180,CNN,20,Sanders on Gillibrand’s remark that Clinton should have resigned over Lewinsky affair: “I don’t think at this momen… https://t.co/XgFqgxJxUk,-0.25,0.0,0.1,0.9,Sun Nov 19 14:57:46 +0000 2017
+181,CNN,19,"""Saturday Night Live"" takes on Senator, and former 'SNL' performer, Al Franken in their ""Weekend Update""… https://t.co/oNlgjrpxuW",0.0,0.0,0.0,1.0,Sun Nov 19 14:55:04 +0000 2017
+182,CNN,18,Bill Gates has a new mission: To find a cure for Alzheimer's https://t.co/VlROTlMszB https://t.co/6muQSCT161,0.0,0.0,0.0,1.0,Sun Nov 19 14:45:05 +0000 2017
+183,CNN,17,"Sen. Bernie Sanders slams GOP tax bill: “They are going to come back with massive cuts to Social Security, Medicare… https://t.co/oqxNdjEj5u",0.0516,0.102,0.093,0.805,Sun Nov 19 14:39:16 +0000 2017
+184,CNN,16,"Cards Against Humanity, a card game company known for its attention-seeking pranks, says it bought land on the US-M… https://t.co/fV1zXN5GW1",0.0,0.0,0.0,1.0,Sun Nov 19 14:30:17 +0000 2017
+185,CNN,15,"OMB Director Mick Mulvaney: ""The President is not going to sign a bill that raises taxes on the middle class, perio… https://t.co/BMqmzgS6o3",0.0,0.0,0.0,1.0,Sun Nov 19 14:23:20 +0000 2017
+186,CNN,14,The US Navy admits an aircrew drew a penis in the sky https://t.co/xVENVgTgZE https://t.co/QoUJAh3tZp,0.296,0.155,0.0,0.845,Sun Nov 19 14:15:05 +0000 2017
+187,CNN,13,"RT @CNNSotu: .@SenatorCollins wants the Senate to strike the repeal of the individual mandate ... BUT she also says: ""I think we need to di…",-0.0644,0.0,0.05,0.95,Sun Nov 19 14:10:45 +0000 2017
+188,CNN,12,Sen. Susan Collins: “I’ve never supported Roy Moore and I hope that he does not end up being in the US Senate”… https://t.co/MY9NQkW4ww,0.2354,0.117,0.079,0.804,Sun Nov 19 14:08:40 +0000 2017
+189,CNN,11,The drug convictions of 15 men in Chicago have been thrown out after they claimed a police sergeant and his team of… https://t.co/a2zLkWDydo,0.0,0.0,0.0,1.0,Sun Nov 19 14:00:12 +0000 2017
+190,CNN,10,"RT @CNNSotu: This morning on #CNNSOTU w/ @JakeTapper: @SenatorCollins, @MickMulvaneyOMB, @SenSanders, @amandacarpenter, @neeratanden, @Mich…",0.0,0.0,0.0,1.0,Sun Nov 19 13:48:20 +0000 2017
+191,CNN,9,"Hate crimes in the United States have increased to a point not seen in recent history, according to a new statistic… https://t.co/eqkFHnzorb",0.0516,0.191,0.145,0.664,Sun Nov 19 13:45:04 +0000 2017
+192,CNN,8,"JUST IN: Zimbabwe's ruling party expels Robert Mugabe as its chief, ramping up pressure on the leader to end his pr… https://t.co/fiQ0x4537M",-0.2732,0.102,0.181,0.717,Sun Nov 19 13:42:36 +0000 2017
+193,CNN,7,"""Come Back Barack"" sings ""Saturday Night Live"" host Chance the Rapper in a show full of musical numbers… https://t.co/EHBn5K9P89",0.25,0.105,0.0,0.895,Sun Nov 19 13:32:30 +0000 2017
+194,CNN,6,Do we love our guns more than our children? (via @CNNOpinion) https://t.co/dZT8NgAJzn https://t.co/BXX45Dv71T,0.6369,0.259,0.0,0.741,Sun Nov 19 13:30:19 +0000 2017
+195,CNN,5,The degenerative brain disease CTE has been confirmed in a living NFL player for the first time… https://t.co/b9Zj1TmSI9,0.0,0.0,0.0,1.0,Sun Nov 19 13:15:08 +0000 2017
+196,CNN,4,"Colorado is spending $10,000 to train and equip K-9 officers with Narcan for dogs, which are at risk of inhaling po… https://t.co/rzYXrtfKwN",-0.2732,0.0,0.091,0.909,Sun Nov 19 13:01:05 +0000 2017
+197,CNN,3,It’s a side of Vegas that's often ignored. @lisaling meets Vegas residents struggling with homelessness on… https://t.co/ZjHGG9bfIn,-0.6249,0.0,0.267,0.733,Sun Nov 19 12:44:13 +0000 2017
+198,CNN,2,"Cards Against Humanity, a card game company known for its attention-seeking pranks, says it bought land on the US-M… https://t.co/7ByDDaP7Ud",0.0,0.0,0.0,1.0,Sun Nov 19 12:30:05 +0000 2017
+199,CNN,1,"Ross 128 b is a newly discovered exoplanet, the second-closest found to our solar system, only 11 light-years away.… https://t.co/47qhmFCkFq",0.0,0.0,0.0,1.0,Sun Nov 19 12:15:05 +0000 2017
+200,CBS,100,Due to football overrun #CBS is delayed 5 mins in east &amp; central time zones. New start times #60minutes 7:35ET/6:35… https://t.co/4m9yvh4o3M,-0.2263,0.0,0.091,0.909,Mon Nov 20 00:41:54 +0000 2017
+201,CBS,99,Get ready for football! Stream NFL on CBS today with #CBSAllAccess (not available on mobile phones). Try 1 week FRE… https://t.co/RTHdvhkGQN,0.4199,0.128,0.0,0.872,Sun Nov 19 14:53:05 +0000 2017
+202,CBS,98,Stream the Kentucky Wildcats at Georgia Bulldogs LIVE today at 3:30PM ET! Try #CBSAllAccess FREE:… https://t.co/Azsj50hX7H,0.0,0.0,0.0,1.0,Sat Nov 18 17:33:07 +0000 2017
+203,CBS,97,"Spread your wings and fly to Shanghai for a behind-the-scenes look at the 2017 #VSFashionShow venue! Tune in Tues,… https://t.co/NQttk90SWE",0.0,0.0,0.0,1.0,Thu Nov 16 20:49:50 +0000 2017
+204,CBS,96,RT @latelateshow: Ready for new tunes? @zanelowe drops by tonight with the latest @AppleMusic #UpNext artist — @AmySharkMusic! https://t.co…,0.4199,0.141,0.0,0.859,Thu Nov 16 01:00:45 +0000 2017
+205,CBS,95,Hundreds of models hope to earn their wings at the Victoria's Secret Fashion Show Casting Auditions! Take a peek be… https://t.co/B2Wmc6KWjp,0.4926,0.144,0.0,0.856,Wed Nov 15 19:11:31 +0000 2017
+206,CBS,94,#Bull faced one of his toughest opponents on last night's episode. Catch up now: https://t.co/rzwYb07ain https://t.co/rPRUEr1xu3,-0.0772,0.0,0.08,0.92,Wed Nov 15 18:13:33 +0000 2017
+207,CBS,93,Join superstars @carrieunderwood &amp; @johnlegend as they host 'GRAMMYS® Greatest Stories: A 60th Anniversary Special'… https://t.co/sar8zwewCl,0.7506,0.33,0.0,0.67,Wed Nov 15 14:43:43 +0000 2017
+208,CBS,92,RT @BrunoMars: WEDNESDAY NOVEMBER 29th ON CBS! MY FIRST TV SPECIAL! https://t.co/WnQqXBqYAm,0.6145,0.267,0.0,0.733,Tue Nov 14 22:57:47 +0000 2017
+209,CBS,91,"RT @TheTalkCBS: Get to know our new co-host, @TheRealEve​ 💖💖 https://t.co/0FRuwVanNg",0.0,0.0,0.0,1.0,Tue Nov 14 22:13:00 +0000 2017
+210,CBS,90,RT @BullCBS: Emmy Award winner and @TheGoodWife_CBS star @ArchiePanjabi guest stars tonight on an all-new #Bull. Take a peek. https://t.co/…,0.8074,0.3,0.0,0.7,Tue Nov 14 22:10:50 +0000 2017
+211,CBS,89,"RT @NoActivityCBS: From Will Ferrell, Adam McKay &amp; @Funnyordie, #NoActivity is now streaming on CBS All Access: https://t.co/lI30WUa97U htt…",0.0,0.0,0.0,1.0,Tue Nov 14 19:13:26 +0000 2017
+212,CBS,88,"RT @instinctcbs: From best-selling author @jp_books, starring @AlanCumming, #Instinct is a new drama coming soon to @CBS. https://t.co/aF6z…",0.0,0.0,0.0,1.0,Tue Nov 14 19:08:57 +0000 2017
+213,CBS,87,"RT @ManWithAPlan: Same family, new funny situations. Don't miss the season premiere of #ManWithAPlan tonight on CBS! https://t.co/SvVdy4gHYA",0.5627,0.225,0.0,0.775,Tue Nov 14 00:03:04 +0000 2017
+214,CBS,86,"RT @startrekcbs: The first 9 episodes are now streaming on CBS All Access: https://t.co/tE9aAhwnGB #StarTrekDiscovery continues Jan 7, 2018…",0.0,0.0,0.0,1.0,Mon Nov 13 20:21:59 +0000 2017
+215,CBS,85,RT @TVGuide: Will Ferrell's new series #NoActivity makes boredom funny https://t.co/hZGKRNm1Ib https://t.co/4PsdmJRX5D,0.1531,0.191,0.151,0.658,Mon Nov 13 01:51:14 +0000 2017
+216,CBS,84,"RT @startrekcbs: Episodes 1-9 now streaming: https://t.co/xklnLL99y6 
+The journey continues January 7, 2018. #StarTrekDiscovery https://t.c…",0.0,0.0,0.0,1.0,Mon Nov 13 01:36:53 +0000 2017
+217,CBS,83,"#CBS delayed 15mins in Most of Texas(no Dallas);
+Wisconsin
+Minnesota
+Chicago
+Nashville
+Cincinnati 
+Wash,DC
+Buffalo… https://t.co/qqnlJWgTYy",-0.2263,0.0,0.112,0.888,Mon Nov 13 00:25:45 +0000 2017
+218,CBS,82,Get ready for football! Stream NFL on CBS today with #CBSAllAccess (not available on mobile phones). Try 1 week FRE… https://t.co/0ckTRuj3Mf,0.4199,0.128,0.0,0.872,Sun Nov 12 14:53:30 +0000 2017
+219,CBS,81,RT @swatcbs: .@shemarmoore and his team have all the angles covered in this 360-degree experience from the latest #SWAT episode: https://t.…,0.0,0.0,0.0,1.0,Sat Nov 11 17:34:56 +0000 2017
+220,CBS,80,Due to football overrun #CBS is delayed 5 mins in east &amp; central time zones. New start times #60minutes 7:35ET/6:35… https://t.co/4m9yvh4o3M,-0.2263,0.0,0.091,0.909,Mon Nov 20 00:41:54 +0000 2017
+221,CBS,79,Get ready for football! Stream NFL on CBS today with #CBSAllAccess (not available on mobile phones). Try 1 week FRE… https://t.co/RTHdvhkGQN,0.4199,0.128,0.0,0.872,Sun Nov 19 14:53:05 +0000 2017
+222,CBS,78,Stream the Kentucky Wildcats at Georgia Bulldogs LIVE today at 3:30PM ET! Try #CBSAllAccess FREE:… https://t.co/Azsj50hX7H,0.0,0.0,0.0,1.0,Sat Nov 18 17:33:07 +0000 2017
+223,CBS,77,"Spread your wings and fly to Shanghai for a behind-the-scenes look at the 2017 #VSFashionShow venue! Tune in Tues,… https://t.co/NQttk90SWE",0.0,0.0,0.0,1.0,Thu Nov 16 20:49:50 +0000 2017
+224,CBS,76,RT @latelateshow: Ready for new tunes? @zanelowe drops by tonight with the latest @AppleMusic #UpNext artist — @AmySharkMusic! https://t.co…,0.4199,0.141,0.0,0.859,Thu Nov 16 01:00:45 +0000 2017
+225,CBS,75,Hundreds of models hope to earn their wings at the Victoria's Secret Fashion Show Casting Auditions! Take a peek be… https://t.co/B2Wmc6KWjp,0.4926,0.144,0.0,0.856,Wed Nov 15 19:11:31 +0000 2017
+226,CBS,74,#Bull faced one of his toughest opponents on last night's episode. Catch up now: https://t.co/rzwYb07ain https://t.co/rPRUEr1xu3,-0.0772,0.0,0.08,0.92,Wed Nov 15 18:13:33 +0000 2017
+227,CBS,73,Join superstars @carrieunderwood &amp; @johnlegend as they host 'GRAMMYS® Greatest Stories: A 60th Anniversary Special'… https://t.co/sar8zwewCl,0.7506,0.33,0.0,0.67,Wed Nov 15 14:43:43 +0000 2017
+228,CBS,72,RT @BrunoMars: WEDNESDAY NOVEMBER 29th ON CBS! MY FIRST TV SPECIAL! https://t.co/WnQqXBqYAm,0.6145,0.267,0.0,0.733,Tue Nov 14 22:57:47 +0000 2017
+229,CBS,71,"RT @TheTalkCBS: Get to know our new co-host, @TheRealEve​ 💖💖 https://t.co/0FRuwVanNg",0.0,0.0,0.0,1.0,Tue Nov 14 22:13:00 +0000 2017
+230,CBS,70,RT @BullCBS: Emmy Award winner and @TheGoodWife_CBS star @ArchiePanjabi guest stars tonight on an all-new #Bull. Take a peek. https://t.co/…,0.8074,0.3,0.0,0.7,Tue Nov 14 22:10:50 +0000 2017
+231,CBS,69,"RT @NoActivityCBS: From Will Ferrell, Adam McKay &amp; @Funnyordie, #NoActivity is now streaming on CBS All Access: https://t.co/lI30WUa97U htt…",0.0,0.0,0.0,1.0,Tue Nov 14 19:13:26 +0000 2017
+232,CBS,68,"RT @instinctcbs: From best-selling author @jp_books, starring @AlanCumming, #Instinct is a new drama coming soon to @CBS. https://t.co/aF6z…",0.0,0.0,0.0,1.0,Tue Nov 14 19:08:57 +0000 2017
+233,CBS,67,"RT @ManWithAPlan: Same family, new funny situations. Don't miss the season premiere of #ManWithAPlan tonight on CBS! https://t.co/SvVdy4gHYA",0.5627,0.225,0.0,0.775,Tue Nov 14 00:03:04 +0000 2017
+234,CBS,66,"RT @startrekcbs: The first 9 episodes are now streaming on CBS All Access: https://t.co/tE9aAhwnGB #StarTrekDiscovery continues Jan 7, 2018…",0.0,0.0,0.0,1.0,Mon Nov 13 20:21:59 +0000 2017
+235,CBS,65,RT @TVGuide: Will Ferrell's new series #NoActivity makes boredom funny https://t.co/hZGKRNm1Ib https://t.co/4PsdmJRX5D,0.1531,0.191,0.151,0.658,Mon Nov 13 01:51:14 +0000 2017
+236,CBS,64,"RT @startrekcbs: Episodes 1-9 now streaming: https://t.co/xklnLL99y6 
+The journey continues January 7, 2018. #StarTrekDiscovery https://t.c…",0.0,0.0,0.0,1.0,Mon Nov 13 01:36:53 +0000 2017
+237,CBS,63,"#CBS delayed 15mins in Most of Texas(no Dallas);
+Wisconsin
+Minnesota
+Chicago
+Nashville
+Cincinnati 
+Wash,DC
+Buffalo… https://t.co/qqnlJWgTYy",-0.2263,0.0,0.112,0.888,Mon Nov 13 00:25:45 +0000 2017
+238,CBS,62,Get ready for football! Stream NFL on CBS today with #CBSAllAccess (not available on mobile phones). Try 1 week FRE… https://t.co/0ckTRuj3Mf,0.4199,0.128,0.0,0.872,Sun Nov 12 14:53:30 +0000 2017
+239,CBS,61,RT @swatcbs: .@shemarmoore and his team have all the angles covered in this 360-degree experience from the latest #SWAT episode: https://t.…,0.0,0.0,0.0,1.0,Sat Nov 11 17:34:56 +0000 2017
+240,CBS,60,Stream the Florida Gators at South Carolina Gamecocks LIVE today at 12PM ET! Try #CBSAllAccess FREE:… https://t.co/m1hw9DxXQa,0.0,0.0,0.0,1.0,Sat Nov 11 15:00:04 +0000 2017
+241,CBS,59,RT @BrunoMars: WEDNESDAY NOVEMBER 29th ON CBS!!!!! TELL EVERYONE YOU KNOW!!!! ✨✨✨✨✨ https://t.co/jzaGDHHEVZ,0.0,0.0,0.0,1.0,Fri Nov 10 22:50:56 +0000 2017
+242,CBS,58,Ray's visit took an unexpected turn on last night's episode of #Mom. Catch up now: https://t.co/jKQdvAjWFa https://t.co/7vEeIqFb3j,0.0,0.0,0.0,1.0,Fri Nov 10 19:56:29 +0000 2017
+243,CBS,57,RT @YoungSheldon: Liven up your group chat with special-edition #YoungSheldon Shelmojis inspired by TV’s #1 new show! Download now: https:/…,0.5411,0.155,0.0,0.845,Fri Nov 10 19:52:14 +0000 2017
+244,CBS,56,"RT @startrekcbs: The war with the Klingons comes to a head on the fall finale of #StarTrekDiscovery, streaming this Sunday, Nov. 12. https:…",-0.5994,0.0,0.157,0.843,Fri Nov 10 19:45:38 +0000 2017
+245,CBS,55,RT @NoActivityCBS: He's focused &amp; ambitious...with nothing to do. Meet Detective Cullen. #NoActivity premieres Sunday: https://t.co/wV2EEUj…,0.3818,0.148,0.0,0.852,Fri Nov 10 19:44:51 +0000 2017
+246,CBS,54,RT @swatcbs: Immerse yourself in a scene from tonight's S.W.A.T. with this 360-degree experience: https://t.co/xn8DLzzeLh https://t.co/Dnq6…,0.0,0.0,0.0,1.0,Fri Nov 10 18:08:03 +0000 2017
+247,CBS,53,Don't miss the new special 'The Dick Van Dyke Show- Now In Living Color!' airing Dec. 22 on CBS:… https://t.co/Mhmi51G1r6,-0.1149,0.179,0.133,0.687,Fri Nov 10 02:44:43 +0000 2017
+248,CBS,52,RT @MomCBS: Bonnie's brother Ray is back! Tune in to #Mom tonight at 9/8c or stream it live with CBS All Access: https://t.co/ttRQOQVSec ht…,0.0,0.0,0.0,1.0,Fri Nov 10 01:08:05 +0000 2017
+249,CBS,51,"RT @startrekcbs: Stream the fall finale this Sunday, Nov. 12. #StarTrekDiscovery continues January 7, 2018. Learn what's in store for episo…",0.0,0.0,0.0,1.0,Fri Nov 10 00:20:10 +0000 2017
+250,CBS,50,"RT @NoActivityCBS: Get ready to LOL. 😂😂 Meet the comedy all-stars in #NoActivity, premiering Sunday, Nov. 12 on CBS All Access: https://t.c…",0.8192,0.31,0.0,0.69,Fri Nov 10 00:19:37 +0000 2017
+251,CBS,49,"Laugh in the holidays with the 'I Love Lucy Christmas Special', featuring two classic episodes, Friday, Dec. 22 on… https://t.co/LbIgsaAunT",0.886,0.38,0.0,0.62,Thu Nov 09 23:04:56 +0000 2017
+252,CBS,48,You won't want to miss all the classic specials this holiday season on CBS! See the full lineup:… https://t.co/C6tpCTyNe2,0.5631,0.22,0.055,0.725,Wed Nov 08 22:25:08 +0000 2017
+253,CBS,47,RT @SEALTeamCBS: Follow @ToniTrucks and Jessica Paré on a BTS 360° tour of #SEALTeam's C-17 cargo plane: https://t.co/O7q56om1JG 🇺🇸 https:/…,0.0,0.0,0.0,1.0,Tue Nov 07 19:17:51 +0000 2017
+254,CBS,46,Only 3 weeks to go until Angel Lais Ribeiro will wear the Champagne Nights Fantasy Bra at the 2017 #VSFashionShow!… https://t.co/ufUpz4PMcu,0.3595,0.116,0.0,0.884,Tue Nov 07 18:44:54 +0000 2017
+255,CBS,45,"RT @NoActivityCBS: WTF is #NoActivity, you ask? The funny people in charge explain. Series premieres Nov 12, only on CBS All Access: https:…",-0.3885,0.102,0.159,0.739,Mon Nov 06 19:08:50 +0000 2017
+256,CBS,44,"RT @SEALTeamCBS: This Veterans Day, everyone at #SEALTeam salutes the men &amp; women who defend &amp; protect our country. 🇺🇸 https://t.co/4VByMtZ…",0.3818,0.115,0.0,0.885,Mon Nov 06 18:23:27 +0000 2017
+257,CBS,43,Get ready for football! Stream NFL on CBS today w/ #CBSAllAccess (not available on mobile phones). Try 1 week FREE:… https://t.co/BJOWnqgBgc,0.4199,0.128,0.0,0.872,Sun Nov 05 13:58:35 +0000 2017
+258,CBS,42,Stream the LSU Tigers at Alabama Crimson Tide LIVE tonight at 8PM ET! Try #CBSAllAccess FREE:… https://t.co/L2k6pXwRIp,0.0,0.0,0.0,1.0,Sat Nov 04 20:00:02 +0000 2017
+259,CBS,41,Stream the South Carolina Gamecocks at Georgia Bulldogs LIVE today at 3:30PM ET! Try #CBSAllAccess FREE:… https://t.co/f3nZLlh7Vv,0.0,0.0,0.0,1.0,Sat Nov 04 13:54:31 +0000 2017
+260,CBS,40,Stream the season premiere of #LifeInPieces tonight at 9:30/8:30c with a FREE trial of #CBSAllAccess:… https://t.co/FMHinKs6si,0.6166,0.224,0.0,0.776,Fri Nov 03 00:45:05 +0000 2017
+261,CBS,39,RT @swatcbs: .@ShemarMoore takes command tonight on the series premiere of #SWAT at 10/9c on @CBS &amp; CBS All Access: https://t.co/ANyt4qF6iF…,0.0,0.0,0.0,1.0,Thu Nov 02 23:02:32 +0000 2017
+262,CBS,38,It's almost time! Stream the series premiere of #SWAT tonight at 10/9c with a FREE trial of #CBSAllAccess:… https://t.co/lpPKp9ayTJ,0.6514,0.203,0.0,0.797,Thu Nov 02 19:38:35 +0000 2017
+263,CBS,37,RT @CBSThisMorning: Listen to @IainLoveTheatre chat w/ @Mistahwax about making @YoungSheldonCBS his own + his love for Broadway &amp; magic: ht…,0.6369,0.181,0.0,0.819,Thu Nov 02 17:38:03 +0000 2017
+264,CBS,36,The ladies are back! Stream the season premiere of #Mom tonight at 9/8c with a FREE trial of #CBSAllAccess:… https://t.co/y4vL5wMSEM,0.6514,0.194,0.0,0.806,Thu Nov 02 16:47:35 +0000 2017
+265,CBS,35,"Buffalo viewers: Due to NFL, stream the CBS lineup on-demand at https://t.co/bbQB95EVxJ tonight. For more:… https://t.co/u9U9P7Ggqq",0.0,0.0,0.0,1.0,Thu Nov 02 10:09:01 +0000 2017
+266,CBS,34,"NYC viewers ONLY: Due to NFL, tune in to WLNY for CBS Thursday night lineup, or stream on https://t.co/2XNQAg6gJ6 l… https://t.co/LHJahNFRi3",0.0,0.0,0.0,1.0,Thu Nov 02 10:08:01 +0000 2017
+267,CBS,33,"Buffalo viewers ONLY: Due to NFL, stream CBS Thursday night lineup on-demand at https://t.co/bbQB95Wwph. For more:… https://t.co/Fzpq2sTzqY",0.0,0.0,0.0,1.0,Thu Nov 02 00:24:36 +0000 2017
+268,CBS,32,"NYC viewers ONLY: Due to NFL, tune in to WLNY for CBS Thursday night lineup, or stream on https://t.co/2XNQAgnRAE l… https://t.co/fnwck6n2uv",0.0,0.0,0.0,1.0,Thu Nov 02 00:19:17 +0000 2017
+269,CBS,31,"RT @ManWithAPlan: Hi-five, fans! #ManWithAPlan will premiere Monday, Nov. 13 at 8:30/7:30c on @CBS!🖐🏼 https://t.co/njrMa5S6Qz",0.0,0.0,0.0,1.0,Wed Nov 01 17:07:30 +0000 2017
+270,CBS,30,Ready to trick or treat! Celebrate tonight with Michael Jackson's Halloween special on CBS: https://t.co/T3hlVVTfSB… https://t.co/e9ztbUeae0,0.8932,0.494,0.05,0.457,Wed Nov 01 00:56:34 +0000 2017
+271,CBS,29,Happy #Halloween! Grab your friends and watch Michael Jackson's Halloween tonight: https://t.co/T3hlVVTfSB… https://t.co/Kg5bxNqwTp,0.7959,0.392,0.0,0.608,Tue Oct 31 20:09:21 +0000 2017
+272,CBS,28,Trick or treat. 🎃 Happy Halloween! Catch up on #MJHalloween now:  https://t.co/T3hlVVTfSB https://t.co/DMyE1q4scs,0.7574,0.396,0.071,0.533,Tue Oct 31 17:01:24 +0000 2017
+273,CBS,27,RT @swatcbs: Get ready for a thrill ride this Thursday with the series premiere of #SWAT. https://t.co/xz92zXp6kR,0.6124,0.263,0.0,0.737,Tue Oct 31 17:00:06 +0000 2017
+274,CBS,26,Join the fun with Jim Parsons as Hay Man in Michael Jackson's Halloween! Watch the full special:… https://t.co/Y1FKFnRd0p,0.6996,0.266,0.0,0.734,Tue Oct 31 14:00:01 +0000 2017
+275,CBS,25,RT @SuperiorDonuts: You won't want to miss the #SuperiorDonuts Season 2 premiere tonight at its new time: 9/8c on CBS &amp; CBS All Access: htt…,0.0572,0.059,0.05,0.892,Mon Oct 30 22:44:05 +0000 2017
+276,CBS,24,RT @SuperiorDonuts: Should we blindfold @jermaineFOWLER and see how well he can guess the flavor of donuts? #SuperiorDonuts,0.2732,0.11,0.0,0.89,Mon Oct 30 22:41:43 +0000 2017
+277,CBS,23,RT @swatcbs: Sometimes following the rules &amp; doing what's right isn't always the same thing. #SWAT premieres this Thursday at 10/9c on @CBS…,0.0,0.0,0.0,1.0,Mon Oct 30 20:00:52 +0000 2017
+278,CBS,22,RT @swatcbs: Start breaking down some doors in three days with the series premiere of #SWAT. https://t.co/X8OTd8OE9y,0.0,0.0,0.0,1.0,Mon Oct 30 20:00:46 +0000 2017
+279,CBS,21,Find out if Vincent &amp; Victoria will escape Meriwether on Michael Jackson's Halloween! Watch it now:… https://t.co/dqNk6OZ1XJ,0.2481,0.111,0.0,0.889,Mon Oct 30 19:05:46 +0000 2017
+280,CBS,20,"RT @NoActivityCBS: #NoActivity is a new CBS All Access comedy from​ ​Will Ferrell, Adam McKay &amp; @funnyordie. Contains explicit language int…",0.3612,0.116,0.0,0.884,Mon Oct 30 16:32:38 +0000 2017
+281,CBS,19,"Don't miss @KelseaBallerini headline #TheThanksgivingDayParade on CBS, live from New York City on Thurs, Nov. 23.… https://t.co/ig74zfxFPy",0.1139,0.083,0.0,0.917,Mon Oct 30 16:08:57 +0000 2017
+282,CBS,18,RT @startrekcbs: Get ready to experience some major déjà vu. Episode 7 of #StarTrekDiscovery is now streaming: https://t.co/dz1lwvT52d http…,0.3612,0.128,0.0,0.872,Mon Oct 30 01:11:11 +0000 2017
+283,CBS,17,"#CBS is delayed 29 minutes in New York City, Philly, NOLA &amp; parts of Louisiana, Atlanta, Charlotte, Tampa, Chicago,… https://t.co/ZM9bTTgxYE",-0.2263,0.0,0.091,0.909,Sun Oct 29 23:38:17 +0000 2017
+284,CBS,16,These moves are dangerous! Get groovy with Michael Jackson's Halloween and watch the full special now:… https://t.co/TrMJgeyOX4,-0.1759,0.128,0.161,0.711,Sun Oct 29 14:00:07 +0000 2017
+285,CBS,15,Get ready for football! Stream NFL on CBS today w/ #CBSAllAccess (not available on mobile phones). Try 1 week FREE!… https://t.co/URKV4PPKvp,0.4738,0.14,0.0,0.86,Sun Oct 29 12:54:33 +0000 2017
+286,CBS,14,Vincent can't help but dream big on Michael Jackson's Halloween. Catch up on the full animated special:… https://t.co/fDbgzo8nrV,-0.4096,0.0,0.189,0.811,Sat Oct 28 16:29:44 +0000 2017
+287,CBS,13,Stream the #3 Georgia Bulldogs @ Florida Gators LIVE today at 3:30PM ET! Try #CBSAllAccess FREE:… https://t.co/ULrmutB6Ml,0.0,0.0,0.0,1.0,Sat Oct 28 14:36:39 +0000 2017
+288,CBS,12,"Michael Jackson's Halloween will enchant you with music, magic &amp; more! Watch the full special now:… https://t.co/lgzleI955w",0.4574,0.158,0.0,0.842,Sat Oct 28 04:48:22 +0000 2017
+289,CBS,11,The Halloween fun isn’t over for @lucastill and George Eads. Tune in to a spooky episode of #MacGyver now! https://t.co/nJePYNhmUa,0.5562,0.166,0.0,0.834,Sat Oct 28 00:58:16 +0000 2017
+290,CBS,10,“Music must be the answer!” #MJHalloween https://t.co/t4UTfizfIn,0.0,0.0,0.0,1.0,Sat Oct 28 00:53:51 +0000 2017
+291,CBS,9,There are plenty of tricks hidden in this hotel. #MJHalloween https://t.co/vQAHVXU4Ai,-0.128,0.0,0.13,0.87,Sat Oct 28 00:35:11 +0000 2017
+292,CBS,8,That pumpkin’s got some moves! #MJHalloween https://t.co/o7oaRSXzmb,0.0,0.0,0.0,1.0,Sat Oct 28 00:17:16 +0000 2017
+293,CBS,7,"Sit back, relax and get ready to dance. Michael Jackson’s Halloween starts now on CBS and CBS All Access!… https://t.co/NkswtPMtzp",0.69,0.24,0.0,0.76,Sat Oct 28 00:00:37 +0000 2017
+294,CBS,6,Don't miss tonight's animated special with the King of Pop's most memorable hits.🎶  Watch #MJHalloween @ 8/7c on CB… https://t.co/NQGZobg2gg,0.4843,0.196,0.0,0.804,Fri Oct 27 21:00:06 +0000 2017
+295,CBS,5,"Tonight, get ready for a scary good time! Watch a sneak peek from the new animated special, Michael Jackson's Hallo… https://t.co/PxILZmCl4e",0.636,0.316,0.12,0.564,Fri Oct 27 19:00:04 +0000 2017
+296,CBS,4,"RT @swatcbs: When lives hang in the balance, can you make the tough decisions? Find out with #SWAT Split-Second Decision: https://t.co/dO2V…",-0.128,0.0,0.07,0.93,Fri Oct 27 18:57:41 +0000 2017
+297,CBS,3,"Find out if Vincent, played by @lucastill, will escape the villain Conformity in Michael Jackson's Halloween tonigh… https://t.co/KPaug90mCg",-0.128,0.181,0.159,0.661,Fri Oct 27 16:00:07 +0000 2017
+298,CBS,2,It's a spooktacular special you won't want to miss! Here's how you can watch Michael Jackson's Halloween tonight:… https://t.co/3sp68DgUr3,0.4963,0.215,0.059,0.726,Fri Oct 27 12:15:03 +0000 2017
+299,CBS,1,"Tomorrow, the music of Michael Jackson will cast its spell! Take a sneak peek at Michael Jackson's Halloween, Frida… https://t.co/ewuRYHSICA",0.0,0.0,0.0,1.0,Thu Oct 26 21:47:24 +0000 2017
+300,Fox News,100,".@TimRyan on GOP tax reform plans: ""A tax cut for the wealthiest people in the country when you're borrowing the mo… https://t.co/RbGOlpoeDt",0.2732,0.126,0.083,0.791,Mon Nov 20 02:35:38 +0000 2017
+301,Fox News,99,".@MonicaCrowley on battle over working class voters: ""What @realDonaldTrump saw was a real opportunity for a signif… https://t.co/sPaajaHGlD",0.0516,0.144,0.134,0.722,Mon Nov 20 02:30:08 +0000 2017
+302,Fox News,98,".@MonicaCrowley on battle for working class voters: ""The Democratic party [over the last few decades] has largely b… https://t.co/Fmn36kbyNf",0.0258,0.121,0.117,0.762,Mon Nov 20 02:28:39 +0000 2017
+303,Fox News,97,"Trump reignites feud with Flake, predicts he'll vote no on tax cuts https://t.co/QA1Ee8nBMk",-0.7003,0.0,0.405,0.595,Mon Nov 20 02:24:18 +0000 2017
+304,Fox News,96,"North Korea on 'aggressive schedule' in developing ballistic missile submarine, report says https://t.co/PqxgnR2HrR",-0.1531,0.0,0.118,0.882,Mon Nov 20 01:49:37 +0000 2017
+305,Fox News,95,Mom's iPhone unlocked using 10-year-old son's face https://t.co/dKbl3YQ7Wu,0.0,0.0,0.0,1.0,Mon Nov 20 01:45:16 +0000 2017
+306,Fox News,94,".@SHAQ on plans after retiring: ""Somewhere in America, I'm gonna run for sheriff."" #OBJECTified https://t.co/y5uHfaoOpd",0.0,0.0,0.0,1.0,Mon Nov 20 01:33:05 +0000 2017
+307,Fox News,93,".@SHAQ: ""I don't look at myself as a superstar. My story is a story of a regular working man making it to become ve… https://t.co/vffrAKbXsE",0.0,0.0,0.0,1.0,Mon Nov 20 01:25:24 +0000 2017
+308,Fox News,92,Best Friends Are Youngest Black Republicans Ever Elected in Blue Connecticut https://t.co/kKhyUFFPAH,0.8074,0.422,0.0,0.578,Mon Nov 20 01:23:29 +0000 2017
+309,Fox News,91,".@SHAQ on the night Biggie Smalls was shot: ""My mom said 'were you there...your friend just got shot.""' #OBJECTified https://t.co/ydOXGnRqnk",0.4939,0.144,0.0,0.856,Mon Nov 20 01:17:12 +0000 2017
+310,Fox News,90,"Dozens of worms, parasites removed from escaped North Korean soldier https://t.co/l3JsKrHHWb",0.0,0.0,0.0,1.0,Mon Nov 20 01:12:01 +0000 2017
+311,Fox News,89,".@SHAQ on growing up surrounded by crime: ""My father's older brother was killed in the Newark riots, so when I was… https://t.co/PucbARNnRo",-0.891,0.057,0.377,0.567,Mon Nov 20 01:08:58 +0000 2017
+312,Fox News,88,Authorities seek suspect in fatal shooting of police officer https://t.co/p4o7pAqoOv https://t.co/TBQxAMtXnT,-0.6908,0.0,0.388,0.612,Mon Nov 20 01:05:23 +0000 2017
+313,Fox News,87,"RIGHT NOW: Watch a revealing interview with @SHAQ on ""OBJECTified,"" hosted by @HarveyLevinTMZ. https://t.co/mJh5geIMwF",0.0,0.0,0.0,1.0,Mon Nov 20 01:00:06 +0000 2017
+314,Fox News,86,"Trader Joe's recalls packaged salads over glass shards, plastic concerns https://t.co/LMtxEzaek4",0.0,0.0,0.0,1.0,Mon Nov 20 00:54:04 +0000 2017
+315,Fox News,85,Al Franken cut from PBS special amid sexual misconduct allegations https://t.co/7vCIaFBy5t,0.1531,0.196,0.152,0.652,Mon Nov 20 00:35:40 +0000 2017
+316,Fox News,84,"Judith Miller on @realDonaldTrump's Twitter use: ""He's president. Can he just be comfortable with that and not atta… https://t.co/z28lW1Ts9n",0.5106,0.155,0.0,0.845,Mon Nov 20 00:31:17 +0000 2017
+317,Fox News,83,"RT @EricShawnTV: What #taxreform means for you. Here's Ohio @RepJimRenacci, a #CPA, on the breakdown of income and taxes in the proposed bi…",0.0,0.0,0.0,1.0,Mon Nov 20 00:27:28 +0000 2017
+318,Fox News,82,.@HumaneSociety praises @POTUS for holding off on reversing ban on elephant trophy imports. #FoxReport… https://t.co/i9DXtMXzUK,-0.0516,0.17,0.18,0.65,Mon Nov 20 00:17:35 +0000 2017
+319,Fox News,81,"GOP looks to clear next hurdle on tax reform, @Garrett_FoxNews reports.  https://t.co/UkbIz4C2i8 https://t.co/f16rdAsFXX",0.3818,0.178,0.0,0.822,Mon Nov 20 00:12:38 +0000 2017
+320,Fox News,80,".@TimRyan on GOP tax reform plans: ""A tax cut for the wealthiest people in the country when you're borrowing the mo… https://t.co/RbGOlpoeDt",0.2732,0.126,0.083,0.791,Mon Nov 20 02:35:38 +0000 2017
+321,Fox News,79,".@MonicaCrowley on battle over working class voters: ""What @realDonaldTrump saw was a real opportunity for a signif… https://t.co/sPaajaHGlD",0.0516,0.144,0.134,0.722,Mon Nov 20 02:30:08 +0000 2017
+322,Fox News,78,".@MonicaCrowley on battle for working class voters: ""The Democratic party [over the last few decades] has largely b… https://t.co/Fmn36kbyNf",0.0258,0.121,0.117,0.762,Mon Nov 20 02:28:39 +0000 2017
+323,Fox News,77,"Trump reignites feud with Flake, predicts he'll vote no on tax cuts https://t.co/QA1Ee8nBMk",-0.7003,0.0,0.405,0.595,Mon Nov 20 02:24:18 +0000 2017
+324,Fox News,76,"North Korea on 'aggressive schedule' in developing ballistic missile submarine, report says https://t.co/PqxgnR2HrR",-0.1531,0.0,0.118,0.882,Mon Nov 20 01:49:37 +0000 2017
+325,Fox News,75,Mom's iPhone unlocked using 10-year-old son's face https://t.co/dKbl3YQ7Wu,0.0,0.0,0.0,1.0,Mon Nov 20 01:45:16 +0000 2017
+326,Fox News,74,".@SHAQ on plans after retiring: ""Somewhere in America, I'm gonna run for sheriff."" #OBJECTified https://t.co/y5uHfaoOpd",0.0,0.0,0.0,1.0,Mon Nov 20 01:33:05 +0000 2017
+327,Fox News,73,".@SHAQ: ""I don't look at myself as a superstar. My story is a story of a regular working man making it to become ve… https://t.co/vffrAKbXsE",0.0,0.0,0.0,1.0,Mon Nov 20 01:25:24 +0000 2017
+328,Fox News,72,Best Friends Are Youngest Black Republicans Ever Elected in Blue Connecticut https://t.co/kKhyUFFPAH,0.8074,0.422,0.0,0.578,Mon Nov 20 01:23:29 +0000 2017
+329,Fox News,71,".@SHAQ on the night Biggie Smalls was shot: ""My mom said 'were you there...your friend just got shot.""' #OBJECTified https://t.co/ydOXGnRqnk",0.4939,0.144,0.0,0.856,Mon Nov 20 01:17:12 +0000 2017
+330,Fox News,70,"Dozens of worms, parasites removed from escaped North Korean soldier https://t.co/l3JsKrHHWb",0.0,0.0,0.0,1.0,Mon Nov 20 01:12:01 +0000 2017
+331,Fox News,69,".@SHAQ on growing up surrounded by crime: ""My father's older brother was killed in the Newark riots, so when I was… https://t.co/PucbARNnRo",-0.891,0.057,0.377,0.567,Mon Nov 20 01:08:58 +0000 2017
+332,Fox News,68,Authorities seek suspect in fatal shooting of police officer https://t.co/p4o7pAqoOv https://t.co/TBQxAMtXnT,-0.6908,0.0,0.388,0.612,Mon Nov 20 01:05:23 +0000 2017
+333,Fox News,67,"RIGHT NOW: Watch a revealing interview with @SHAQ on ""OBJECTified,"" hosted by @HarveyLevinTMZ. https://t.co/mJh5geIMwF",0.0,0.0,0.0,1.0,Mon Nov 20 01:00:06 +0000 2017
+334,Fox News,66,"Trader Joe's recalls packaged salads over glass shards, plastic concerns https://t.co/LMtxEzaek4",0.0,0.0,0.0,1.0,Mon Nov 20 00:54:04 +0000 2017
+335,Fox News,65,Al Franken cut from PBS special amid sexual misconduct allegations https://t.co/7vCIaFBy5t,0.1531,0.196,0.152,0.652,Mon Nov 20 00:35:40 +0000 2017
+336,Fox News,64,"Judith Miller on @realDonaldTrump's Twitter use: ""He's president. Can he just be comfortable with that and not atta… https://t.co/z28lW1Ts9n",0.5106,0.155,0.0,0.845,Mon Nov 20 00:31:17 +0000 2017
+337,Fox News,63,"RT @EricShawnTV: What #taxreform means for you. Here's Ohio @RepJimRenacci, a #CPA, on the breakdown of income and taxes in the proposed bi…",0.0,0.0,0.0,1.0,Mon Nov 20 00:27:28 +0000 2017
+338,Fox News,62,.@HumaneSociety praises @POTUS for holding off on reversing ban on elephant trophy imports. #FoxReport… https://t.co/i9DXtMXzUK,-0.0516,0.17,0.18,0.65,Mon Nov 20 00:17:35 +0000 2017
+339,Fox News,61,"GOP looks to clear next hurdle on tax reform, @Garrett_FoxNews reports.  https://t.co/UkbIz4C2i8 https://t.co/f16rdAsFXX",0.3818,0.178,0.0,0.822,Mon Nov 20 00:12:38 +0000 2017
+340,Fox News,60,.@JoeBiden: Now Is 'One of the Most Dangerous Times in Modern History' https://t.co/Dqee1cdxje,-0.5256,0.0,0.22,0.78,Mon Nov 20 00:05:21 +0000 2017
+341,Fox News,59,"OPINION: A health-care plan from 2,000 years ago could help America today https://t.co/Tm3rEdpGjz",0.4019,0.197,0.0,0.803,Mon Nov 20 00:00:24 +0000 2017
+342,Fox News,58,"Southern border agent killed, another injured while on patrol in Texas https://t.co/BNAasqFauI",-0.802,0.0,0.419,0.581,Sun Nov 19 23:55:27 +0000 2017
+343,Fox News,57,"Moments ago, President @realDonaldTrump tweeted about Arizona Sen. @JeffFlake's hot mic comment about the GOP's fut… https://t.co/AnaFxL6CNJ",0.0,0.0,0.0,1.0,Sun Nov 19 23:46:39 +0000 2017
+344,Fox News,56,"Jim Renacci on GOP tax bill: ""This is about sustained growth. This is about getting our economy growing again."" https://t.co/tgpRkcRkyI",0.5106,0.193,0.0,0.807,Sun Nov 19 23:27:47 +0000 2017
+345,Fox News,55,Jeffrey Tambor reportedly exiting 'Transparent' despite denying sexual misconduct allegations https://t.co/MkpoRvuBpf,0.2584,0.169,0.0,0.831,Sun Nov 19 23:25:36 +0000 2017
+346,Fox News,54,Do you agree with President @realDonaldTrump? https://t.co/95vQdo5xY8,0.3612,0.294,0.0,0.706,Sun Nov 19 23:14:03 +0000 2017
+347,Fox News,53,"Southern border agent killed, another injured while on patrol in Texas https://t.co/HCg25X1Vul https://t.co/tdbQ0R2HrU",-0.802,0.0,0.396,0.604,Sun Nov 19 23:11:39 +0000 2017
+348,Fox News,52,Couple says police detained them after mistaking hibiscus plants for marijuana https://t.co/rtAbvKhmk0,-0.5859,0.0,0.324,0.676,Sun Nov 19 23:00:10 +0000 2017
+349,Fox News,51,"On @SundayFutures, @EricTrump praised @POTUS's economic record in the year since he was elected.… https://t.co/FH2rKM8jzg",0.4939,0.186,0.0,0.814,Sun Nov 19 22:58:06 +0000 2017
+350,Fox News,50,Florida church warns at every door 'we are heavily armed' https://t.co/UEHVPVqDg3,-0.1027,0.0,0.123,0.877,Sun Nov 19 22:49:59 +0000 2017
+351,Fox News,49,.@USCG Petty Officer 2nd Class Bryan Shreaves gets a homecoming hug from his daughter after a nine-month deployment… https://t.co/D5ZK8uJZZU,0.3182,0.156,0.09,0.754,Sun Nov 19 22:42:54 +0000 2017
+352,Fox News,48,RT @EricShawnTV: At 6 pm ET when I anchor @FoxNews: What the #TaxReform bill means for you. @RepJimRenacci joins me to explain the seemingl…,0.0,0.0,0.0,1.0,Sun Nov 19 22:39:46 +0000 2017
+353,Fox News,47,"Turkey bans all LGBTI events in Ankara, citing security https://t.co/dQ6vVDFZh7",0.34,0.211,0.0,0.789,Sun Nov 19 22:36:35 +0000 2017
+354,Fox News,46,British sailor dies in round-the-world yacht race after swept overboard in rough seas https://t.co/jIPVf0kvQp,0.0,0.0,0.0,1.0,Sun Nov 19 22:30:24 +0000 2017
+355,Fox News,45,Famed 'Cosby Show' and Broadway actor Earle Hyman dies at 91 https://t.co/jc7G9KV4ul https://t.co/j8HE9suHhh,0.0,0.0,0.0,1.0,Sun Nov 19 22:25:30 +0000 2017
+356,Fox News,44,"Florida woman accused of killing husband, hiding duct-taped body in closet and walling over it https://t.co/d6O3bPnI6r",-0.8316,0.0,0.404,0.596,Sun Nov 19 22:25:04 +0000 2017
+357,Fox News,43,Rep. Frederica Wilson says Gen. Kelly should 'apologize to nation' https://t.co/kpCkHW0vpe,0.1027,0.123,0.0,0.877,Sun Nov 19 22:19:11 +0000 2017
+358,Fox News,42,"In his new hit song, country singer @NealMcCoy is taking aim at anthem kneelers. https://t.co/HAbdDQAlrD https://t.co/IMECr6eIlO",0.0,0.0,0.0,1.0,Sun Nov 19 22:14:01 +0000 2017
+359,Fox News,41,Manhunt for sex offender and 2 others who escaped from Florida jail https://t.co/bv0HYyZm5J,-0.3612,0.0,0.185,0.815,Sun Nov 19 22:13:54 +0000 2017
+360,Fox News,40,Fox News Poll: @GDouglasJones leads @MooreSenate in #ALSen race 50% to 42%. https://t.co/qkfz7kxb62,0.0,0.0,0.0,1.0,Sun Nov 19 22:10:04 +0000 2017
+361,Fox News,39,Former @NFL player Herschel Walker criticized NFL Commissioner Roger Goodell for not putting a stop to the National… https://t.co/mYIgPAjZgZ,-0.1561,0.093,0.123,0.785,Sun Nov 19 22:01:12 +0000 2017
+362,Fox News,38,"Franken reportedly won't resign, amid more congressional calls  to deal with allegations against him and Roy Moore https://t.co/h2PJtZUTqK",0.2584,0.107,0.0,0.893,Sun Nov 19 21:56:23 +0000 2017
+363,Fox News,37,"Ten Commandments Statue to Be Erected at Shopping Mall
+    https://t.co/Q6yUOmQzZi",0.0,0.0,0.0,1.0,Sun Nov 19 21:46:07 +0000 2017
+364,Fox News,36,"Tonight at 8p ET: Watch a revealing interview with @SHAQ on ""OBJECTified,"" hosted by @HarveyLevinTMZ. https://t.co/iRuKr7CJuk",0.0,0.0,0.0,1.0,Sun Nov 19 21:42:05 +0000 2017
+365,Fox News,35,"In his new hit song, country singer @NealMcCoy is taking aim at anthem kneelers. https://t.co/HAbdDQiKA5 https://t.co/Nal9qvjtbO",0.0,0.0,0.0,1.0,Sun Nov 19 21:41:00 +0000 2017
+366,Fox News,34,Nebraska to announce decision on Keystone XL pipeline https://t.co/5pDmVZQSsq,0.0,0.0,0.0,1.0,Sun Nov 19 21:35:50 +0000 2017
+367,Fox News,33,".@HillaryClinton: ""Between tweeting and golfing how does [@POTUS] get anything done?"" https://t.co/iOrz9NY1x2",0.0,0.0,0.0,1.0,Sun Nov 19 21:30:05 +0000 2017
+368,Fox News,32,Ex-DMV worker: New York Gov. Cuomo ignored sex assault claims https://t.co/foYIVrysnG,-0.7269,0.0,0.404,0.596,Sun Nov 19 21:28:39 +0000 2017
+369,Fox News,31,"At an event commemorating the 25th anniversary of @BillClinton's 1992 campaign, @HillaryClinton criticized @POTUS.… https://t.co/q9ZenoXPjm",-0.3612,0.0,0.152,0.848,Sun Nov 19 21:24:52 +0000 2017
+370,Fox News,30,'Manspreader' arrested in assault on New York subway rider https://t.co/x9mW3uUwpQ,-0.7845,0.0,0.463,0.537,Sun Nov 19 21:23:13 +0000 2017
+371,Fox News,29,".@RepAdamSchiff blasted President @realDonaldTrump's response to LaVar Ball, the outspoken father of @UCLA player L… https://t.co/MgdZccEw2y",0.0,0.0,0.0,1.0,Sun Nov 19 21:17:05 +0000 2017
+372,Fox News,28,Woman catches record-breaking fish in Colorado on her vacation https://t.co/nBWHFmUn9m,0.0,0.0,0.0,1.0,Sun Nov 19 21:10:38 +0000 2017
+373,Fox News,27,".@OliverNorthFNC: ""These are people who want us to live in the 7th century. They couldn't build a lightbulb if they… https://t.co/175BgmRMsC",0.0772,0.064,0.0,0.936,Sun Nov 19 21:06:27 +0000 2017
+374,Fox News,26,"On @SundayFutures, @EricTrump praised @POTUS's economic record in the year since he was elected.… https://t.co/PF9Ykwo8ac",0.4939,0.186,0.0,0.814,Sun Nov 19 21:03:11 +0000 2017
+375,Fox News,25,"Biden: Now Is 'One of the Most Dangerous Times in Modern History'
+https://t.co/Dqee1cdxje",-0.5256,0.0,0.22,0.78,Sun Nov 19 20:55:52 +0000 2017
+376,Fox News,24,"Franken reportedly won't resign, amid more congressional calls to deal with allegations against him and Roy Moore
+
+https://t.co/vWgz8tBvDL",0.2584,0.107,0.0,0.893,Sun Nov 19 20:52:40 +0000 2017
+377,Fox News,23,"President @realDonaldTrump dunks on @UCLA star's controversial father, says he should have 'left them in jail'… https://t.co/N5nbKHecav",-0.2023,0.0,0.101,0.899,Sun Nov 19 20:46:50 +0000 2017
+378,Fox News,22,Country music legend Mel Tillis dead at 85 https://t.co/gGIwQvrhZ7,-0.6486,0.0,0.35,0.65,Sun Nov 19 20:40:36 +0000 2017
+379,Fox News,21,"On @ffweekend, @dreverettpiper, president of @OKWUniv, spoke out against post-modern P.C. educational policies. https://t.co/qBBCPIvWJy",0.0,0.0,0.0,1.0,Sun Nov 19 20:36:43 +0000 2017
+380,Fox News,20,"Missing Argentine Navy sub may have sent distress signals, US Navy sends help https://t.co/5Tle2gKc4a",-0.4404,0.14,0.29,0.57,Sun Nov 19 20:32:47 +0000 2017
+381,Fox News,19,RT @EricShawnTV: I anchor @FoxNews at 4 &amp; 6 pm ET: #RobGoldstone speaks out. The promoter who set up the #TrumpTower @DonaldJTrumpJr meetin…,0.0,0.0,0.0,1.0,Sun Nov 19 20:32:25 +0000 2017
+382,Fox News,18,".@JeffFlake: @GOP is 'toast' if it becomes party of @POTUS, @MooreSenate https://t.co/uRO6AsQKIT https://t.co/vTU0yS1ueN",0.4019,0.184,0.0,0.816,Sun Nov 19 20:30:40 +0000 2017
+383,Fox News,17,WATCH: Part 2 of @stevenmnuchin1's interview on the GOP tax plans.  @FoxNewsSunday https://t.co/yOJSDX9iNR,0.0,0.0,0.0,1.0,Sun Nov 19 20:29:11 +0000 2017
+384,Fox News,16,WATCH: Part 1 of @stevenmnuchin1's interview on the GOP tax plans.  @FoxNewsSunday https://t.co/EFCZPmzHky,0.0,0.0,0.0,1.0,Sun Nov 19 20:28:33 +0000 2017
+385,Fox News,15,".@HillaryClinton: ""Between tweeting and golfing how does he get anything done?"" https://t.co/T1aFMAQ8Ly",0.0,0.0,0.0,1.0,Sun Nov 19 20:27:06 +0000 2017
+386,Fox News,14,Fox News Poll: @GDouglasJones leads @MooreSenate in #ALSen race 50% to 42%. https://t.co/cs238nHg4M,0.0,0.0,0.0,1.0,Sun Nov 19 20:21:19 +0000 2017
+387,Fox News,13,Best Friends Are Youngest Black Republicans Ever Elected in Blue Connecticut https://t.co/5SGqMIsv8e https://t.co/mWyJDangM7,0.8074,0.399,0.0,0.601,Sun Nov 19 20:21:02 +0000 2017
+388,Fox News,12,"North Korea on 'aggressive schedule' in developing ballistic missile submarine, report says https://t.co/8E6u3i6rsI",-0.1531,0.0,0.118,0.882,Sun Nov 19 20:15:11 +0000 2017
+389,Fox News,11,"Substitute teacher, 23, indicted for sex with two teen boy students and sending them nude pics https://t.co/DZJMEqbYsb",0.0,0.0,0.0,1.0,Sun Nov 19 20:06:19 +0000 2017
+390,Fox News,10,"Jason Riley on Russia probe: ""The idea that we're now talking about Kushner shows that this is rising up in terms o… https://t.co/K5frE6XPf9",0.0,0.0,0.0,1.0,Sun Nov 19 20:00:45 +0000 2017
+391,Fox News,9,"On Twitter, @RepWilson fired off a new missive at White House Chief of Staff Gen. John Kelly.… https://t.co/bR3y9WoulB",-0.5574,0.0,0.184,0.816,Sun Nov 19 19:58:01 +0000 2017
+392,Fox News,8,".@JessicaTarlov on Russia probe: ""I think the most important issue that  [@HillaryClinton] is raising is that we ha… https://t.co/uId7u7Caus",0.2716,0.104,0.0,0.896,Sun Nov 19 19:57:01 +0000 2017
+393,Fox News,7,'Justice League' performs way below expectations at the box office https://t.co/F9UhH5rVuk,0.5267,0.254,0.0,0.746,Sun Nov 19 19:55:24 +0000 2017
+394,Fox News,6,".@JessicaTarlov on Russia probe: ""Whether [@HillaryClinton] likes it or not... the American public has said 'we are… https://t.co/CRnnn2SiCn",0.4215,0.141,0.0,0.859,Sun Nov 19 19:55:12 +0000 2017
+395,Fox News,5,"Katy Perry, Gigi Hadid reportedly banned from Victoria's Secret Fashion Show in China https://t.co/OrKdY56hG3",-0.4588,0.0,0.188,0.812,Sun Nov 19 19:55:08 +0000 2017
+396,Fox News,4,".@jasoninthehouse on Russia probe: ""As long as the face of this is going to be @HillaryClinton, I think most of the… https://t.co/wM1VemM4Wf",0.0,0.0,0.0,1.0,Sun Nov 19 19:52:26 +0000 2017
+397,Fox News,3,".@RepAdamSchiff blasted President @realDonaldTrump's response to LaVar Ball, the outspoken father of @UCLA player L… https://t.co/e54Qm6E7hn",0.0,0.0,0.0,1.0,Sun Nov 19 19:49:50 +0000 2017
+398,Fox News,2,".@CJFord30: ""For me the main reasons [for joining @GOP] are, yes, fiscal responsibility, but very much religious fr… https://t.co/XztibKPRSg",0.2144,0.093,0.0,0.907,Sun Nov 19 19:45:42 +0000 2017
+399,Fox News,1,".@stevenmnuchin1 on GOP tax plans: ""We have the highest tax system in the world. How can our companies compete when… https://t.co/InEjA60CCD",0.0,0.0,0.0,1.0,Sun Nov 19 19:44:25 +0000 2017
+400,The New York Times,100,"Celebrating a 25-Year-Old Clinton Win, but Still Stung by a More Recent Defeat https://t.co/UT5aQYdv26",-0.1698,0.261,0.243,0.495,Mon Nov 20 02:35:24 +0000 2017
+401,The New York Times,99,"“My children respect and love her so much, and I do too. Why am I making that invisible?” https://t.co/Hjum4t1k5v",0.8074,0.327,0.0,0.673,Mon Nov 20 02:26:35 +0000 2017
+402,The New York Times,98,An Earth-sized planet about 11 light-years from Earth could hold liquid water and conditions favorable for life https://t.co/uLb6JDWsIQ,0.4767,0.154,0.0,0.846,Mon Nov 20 02:08:02 +0000 2017
+403,The New York Times,97,Does your iPhone feel slower after Apple released new iPhones? Here's how to speed things back up. https://t.co/Y4a5Zta859,0.0,0.0,0.0,1.0,Mon Nov 20 01:49:54 +0000 2017
+404,The New York Times,96,Ohio Lawmaker Who Backed Family Values Resigns Over ‘Inappropriate Behavior’ https://t.co/26LuGshL3f,0.128,0.27,0.163,0.567,Mon Nov 20 01:30:48 +0000 2017
+405,The New York Times,95,"8 new things to watch now on Netflix, HBO and Amazon Prime https://t.co/Ts8Lcwanlm",0.1779,0.134,0.0,0.866,Mon Nov 20 01:26:32 +0000 2017
+406,The New York Times,94,Argentine Navy Pares Back Hopes of Finding Missing Submarine https://t.co/Y9D0DwOSPU,0.1531,0.215,0.169,0.615,Mon Nov 20 01:08:48 +0000 2017
+407,The New York Times,93,"After a few weeks of humdrum matchups, the NFL is back in full force https://t.co/SMOIIYyCf9",0.0,0.0,0.0,1.0,Mon Nov 20 01:00:11 +0000 2017
+408,The New York Times,92,Op-Ed Contributor: Why Do So Many Indian Children Go Missing? https://t.co/T08JOiSE5Z,-0.296,0.0,0.18,0.82,Mon Nov 20 00:40:19 +0000 2017
+409,The New York Times,91,Op-Ed Columnist: America Is Now an Outlier on Driving Deaths https://t.co/I1lHaITQgC,0.0,0.0,0.0,1.0,Mon Nov 20 00:34:04 +0000 2017
+410,The New York Times,90,"Review: ‘A Fantastic Woman’ Lives Up to Its Title, in More Ways Than One https://t.co/kaUa7pmPzj",0.5574,0.205,0.0,0.795,Mon Nov 20 00:14:50 +0000 2017
+411,The New York Times,89,"“It’s consistent with other work we’ve done showing people want and value health insurance"" https://t.co/vowraKaxkP",0.4019,0.222,0.0,0.778,Mon Nov 20 00:00:30 +0000 2017
+412,The New York Times,88,Our coziest soup recipes https://t.co/JtFUv5a71o,0.0,0.0,0.0,1.0,Sun Nov 19 23:57:03 +0000 2017
+413,The New York Times,87,Will Cutting the Health Mandate Pay for Tax Cuts? Not Necessarily https://t.co/H1oQzJVVnU,-0.4767,0.0,0.362,0.638,Sun Nov 19 23:56:59 +0000 2017
+414,The New York Times,86,"Like your Thanksgiving turkey crisp, golden and tender? Try this: https://t.co/JvPwwR3biy",0.3612,0.2,0.0,0.8,Sun Nov 19 23:28:56 +0000 2017
+415,The New York Times,85,Editorial: Mr. Mugabe Won’t Say What Zimbabwe Longs to Hear: I Quit https://t.co/I6tmaAEE0s,0.0,0.0,0.0,1.0,Sun Nov 19 23:10:58 +0000 2017
+416,The New York Times,84,"Watch: After years of checking in with immigration officers, a man is told he will be deported… https://t.co/F8Mpz3yu6Q",0.0,0.0,0.0,1.0,Sun Nov 19 23:02:11 +0000 2017
+417,The New York Times,83,“Justice League” collected a disappointing $96 million at North American theaters over the weekend https://t.co/Ed5L0BsZYd,-0.4939,0.0,0.198,0.802,Sun Nov 19 22:45:02 +0000 2017
+418,The New York Times,82,Some French women feel so aggrieved that they started a petition to treat sexual harassment as a national emergency https://t.co/D17XUomZs2,-0.5267,0.113,0.256,0.63,Sun Nov 19 22:30:10 +0000 2017
+419,The New York Times,81,Watch: A father entered the country illegally to be with his family. Now he’s facing deportation.… https://t.co/g7tHwtZjOE,0.0,0.0,0.0,1.0,Sun Nov 19 22:15:37 +0000 2017
+420,The New York Times,80,"Celebrating a 25-Year-Old Clinton Win, but Still Stung by a More Recent Defeat https://t.co/UT5aQYdv26",-0.1698,0.261,0.243,0.495,Mon Nov 20 02:35:24 +0000 2017
+421,The New York Times,79,"“My children respect and love her so much, and I do too. Why am I making that invisible?” https://t.co/Hjum4t1k5v",0.8074,0.327,0.0,0.673,Mon Nov 20 02:26:35 +0000 2017
+422,The New York Times,78,An Earth-sized planet about 11 light-years from Earth could hold liquid water and conditions favorable for life https://t.co/uLb6JDWsIQ,0.4767,0.154,0.0,0.846,Mon Nov 20 02:08:02 +0000 2017
+423,The New York Times,77,Does your iPhone feel slower after Apple released new iPhones? Here's how to speed things back up. https://t.co/Y4a5Zta859,0.0,0.0,0.0,1.0,Mon Nov 20 01:49:54 +0000 2017
+424,The New York Times,76,Ohio Lawmaker Who Backed Family Values Resigns Over ‘Inappropriate Behavior’ https://t.co/26LuGshL3f,0.128,0.27,0.163,0.567,Mon Nov 20 01:30:48 +0000 2017
+425,The New York Times,75,"8 new things to watch now on Netflix, HBO and Amazon Prime https://t.co/Ts8Lcwanlm",0.1779,0.134,0.0,0.866,Mon Nov 20 01:26:32 +0000 2017
+426,The New York Times,74,Argentine Navy Pares Back Hopes of Finding Missing Submarine https://t.co/Y9D0DwOSPU,0.1531,0.215,0.169,0.615,Mon Nov 20 01:08:48 +0000 2017
+427,The New York Times,73,"After a few weeks of humdrum matchups, the NFL is back in full force https://t.co/SMOIIYyCf9",0.0,0.0,0.0,1.0,Mon Nov 20 01:00:11 +0000 2017
+428,The New York Times,72,Op-Ed Contributor: Why Do So Many Indian Children Go Missing? https://t.co/T08JOiSE5Z,-0.296,0.0,0.18,0.82,Mon Nov 20 00:40:19 +0000 2017
+429,The New York Times,71,Op-Ed Columnist: America Is Now an Outlier on Driving Deaths https://t.co/I1lHaITQgC,0.0,0.0,0.0,1.0,Mon Nov 20 00:34:04 +0000 2017
+430,The New York Times,70,"Review: ‘A Fantastic Woman’ Lives Up to Its Title, in More Ways Than One https://t.co/kaUa7pmPzj",0.5574,0.205,0.0,0.795,Mon Nov 20 00:14:50 +0000 2017
+431,The New York Times,69,"“It’s consistent with other work we’ve done showing people want and value health insurance"" https://t.co/vowraKaxkP",0.4019,0.222,0.0,0.778,Mon Nov 20 00:00:30 +0000 2017
+432,The New York Times,68,Our coziest soup recipes https://t.co/JtFUv5a71o,0.0,0.0,0.0,1.0,Sun Nov 19 23:57:03 +0000 2017
+433,The New York Times,67,Will Cutting the Health Mandate Pay for Tax Cuts? Not Necessarily https://t.co/H1oQzJVVnU,-0.4767,0.0,0.362,0.638,Sun Nov 19 23:56:59 +0000 2017
+434,The New York Times,66,"Like your Thanksgiving turkey crisp, golden and tender? Try this: https://t.co/JvPwwR3biy",0.3612,0.2,0.0,0.8,Sun Nov 19 23:28:56 +0000 2017
+435,The New York Times,65,Editorial: Mr. Mugabe Won’t Say What Zimbabwe Longs to Hear: I Quit https://t.co/I6tmaAEE0s,0.0,0.0,0.0,1.0,Sun Nov 19 23:10:58 +0000 2017
+436,The New York Times,64,"Watch: After years of checking in with immigration officers, a man is told he will be deported… https://t.co/F8Mpz3yu6Q",0.0,0.0,0.0,1.0,Sun Nov 19 23:02:11 +0000 2017
+437,The New York Times,63,“Justice League” collected a disappointing $96 million at North American theaters over the weekend https://t.co/Ed5L0BsZYd,-0.4939,0.0,0.198,0.802,Sun Nov 19 22:45:02 +0000 2017
+438,The New York Times,62,Some French women feel so aggrieved that they started a petition to treat sexual harassment as a national emergency https://t.co/D17XUomZs2,-0.5267,0.113,0.256,0.63,Sun Nov 19 22:30:10 +0000 2017
+439,The New York Times,61,Watch: A father entered the country illegally to be with his family. Now he’s facing deportation.… https://t.co/g7tHwtZjOE,0.0,0.0,0.0,1.0,Sun Nov 19 22:15:37 +0000 2017
+440,The New York Times,60,Pancho Segura surmounted an impoverished childhood in Ecuador to become one of the world’s leading tennis players https://t.co/ojqhGLeeDa,0.0,0.0,0.0,1.0,Sun Nov 19 22:00:20 +0000 2017
+441,The New York Times,59,"Harper Ediger, 14, will give monthly advice in The New York Times for Kids https://t.co/QaccK8cEYC",0.0,0.0,0.0,1.0,Sun Nov 19 21:45:03 +0000 2017
+442,The New York Times,58,New York’s subway now has the worst on-time performance of any major rapid transit system in the world https://t.co/GyU3QzuH3Y,-0.6249,0.0,0.186,0.814,Sun Nov 19 21:30:19 +0000 2017
+443,The New York Times,57,"Edward Blum isn't a lawyer, but he's a one-man legal factory fighting racial-preference policies across the U.S. https://t.co/6wPCdDN8cE",-0.3612,0.092,0.171,0.737,Sun Nov 19 21:21:21 +0000 2017
+444,The New York Times,56,"“My hope for the beautiful nation"": What Zimbabweans have to say about life under Mugabe https://t.co/J8iw8RiyiW",0.7783,0.327,0.0,0.673,Sun Nov 19 21:15:05 +0000 2017
+445,The New York Times,55,"After years of checking in with immigration officers, a man is told he will be deported as his daughter prepares to… https://t.co/U3PGW27hgD",0.0,0.0,0.0,1.0,Sun Nov 19 21:00:13 +0000 2017
+446,The New York Times,54,The top story lines for NFL Week 11 https://t.co/3U99mATtXj,0.2023,0.184,0.0,0.816,Sun Nov 19 20:45:04 +0000 2017
+447,The New York Times,53,Robert Mugabe stunned Zimbabwe with a speech in which he refused to say whether he would resign https://t.co/d28OpofxlP,-0.6124,0.0,0.3,0.7,Sun Nov 19 20:30:16 +0000 2017
+448,The New York Times,52,"An excellent dark comedy returns and a new, super-geeky one debuts https://t.co/o04mYSrhy8",0.7351,0.408,0.0,0.592,Sun Nov 19 20:23:04 +0000 2017
+449,The New York Times,51,French Montana visited the spots where he and his friends would shop and try to talk to girls https://t.co/ec7dcG4IL2,0.4767,0.147,0.0,0.853,Sun Nov 19 20:15:08 +0000 2017
+450,The New York Times,50,RT @brianmrosenthal: NEW: The New York subway used to be an international treasure. Now it's the most frequently delayed mass transit syste…,0.0056,0.09,0.089,0.82,Sun Nov 19 20:04:57 +0000 2017
+451,The New York Times,49,Mel Tillis found a way to turn his speech impediment into an asset https://t.co/BzYgZ8ntHn,0.3612,0.172,0.0,0.828,Sun Nov 19 20:00:14 +0000 2017
+452,The New York Times,48,"Here are the week’s top stories, and a look ahead https://t.co/YQMXMOs42E",0.2023,0.167,0.0,0.833,Sun Nov 19 19:45:07 +0000 2017
+453,The New York Times,47,"""With me not being Latino myself, I knew that this project was going to come under heavy scrutiny"" https://t.co/GBdtjhZ3yi",0.0,0.0,0.0,1.0,Sun Nov 19 19:30:12 +0000 2017
+454,The New York Times,46,"“The empirical tests I’ve done in my lab suggest that, in many ways, when you’re in love, you can be a better perso… https://t.co/YDgIAFEvZZ",0.7964,0.253,0.0,0.747,Sun Nov 19 19:15:05 +0000 2017
+455,The New York Times,45,LaVar Ball downplayed Trump’s involvement in getting LiAngelo safely out of China without any criminal charges https://t.co/TZtTGfSe84,0.7776,0.358,0.0,0.642,Sun Nov 19 19:00:06 +0000 2017
+456,The New York Times,44,"""I have seen my country at its highest and its lowest points"" https://t.co/tAujSKqgPH",-0.3818,0.0,0.178,0.822,Sun Nov 19 18:45:04 +0000 2017
+457,The New York Times,43,"""If we’re going to live to 150 years, the reality that you’re going to be with one person for 100 years is low"" https://t.co/5GWuGbYCPO",-0.2732,0.0,0.084,0.916,Sun Nov 19 18:30:08 +0000 2017
+458,The New York Times,42,"After a few weeks of humdrum matchups, the NFL is back in full force for Week 11 https://t.co/gqTfOb4xuO",0.0,0.0,0.0,1.0,Sun Nov 19 18:15:07 +0000 2017
+459,The New York Times,41,"There are those who have fame thrust upon them, and those who thrust themselves upon fame like an invasion force https://t.co/2d55fRlIYm",0.8074,0.316,0.0,0.684,Sun Nov 19 18:00:07 +0000 2017
+460,The New York Times,40,"Alia Shawkat discusses her roles in “Transparent” and “Arrested Development,” and sexual harassment in Hollywood https://t.co/PT1aZ1fAX4",-0.5423,0.0,0.189,0.811,Sun Nov 19 17:45:14 +0000 2017
+461,The New York Times,39,Preparing for Doomsday in a $1.5 million bunker condo #Daily360 https://t.co/LMAeZLwSEA https://t.co/3znOfXTJGw,-0.5859,0.0,0.275,0.725,Sun Nov 19 17:30:10 +0000 2017
+462,The New York Times,38,"Opinion: Rex Tillerson, ill suited as secretary of state, is dismantling his department to fit his limited ambitions https://t.co/sk4bcETtx7",-0.296,0.108,0.203,0.69,Sun Nov 19 17:15:11 +0000 2017
+463,The New York Times,37,"One of fashion's greatest and most uncompromising designers, Azzedine Alaïa, has died https://t.co/5S8DHRbXbC",0.1531,0.223,0.191,0.585,Sun Nov 19 17:00:22 +0000 2017
+464,The New York Times,36,Honda has received 46 reports of minor injuries related to Odyssey seats https://t.co/qlvFO9Q9np,0.0,0.0,0.0,1.0,Sun Nov 19 16:45:04 +0000 2017
+465,The New York Times,35,“I haven’t stopped crying. It’s not that we’re attached to our belongings but it hurts to lose everything.” https://t.co/rAu7RP2mNz,-0.8807,0.0,0.427,0.573,Sun Nov 19 16:30:21 +0000 2017
+466,The New York Times,34,Opinion: Conservatives were right about Bill Clinton; once he failed to resign he really deserved to be impeached https://t.co/AKrHAEpGO4,-0.6908,0.0,0.251,0.749,Sun Nov 19 16:15:12 +0000 2017
+467,The New York Times,33,How one 10-year-old girl got a head start on joining a boys-only club https://t.co/ZFYTx7GVhp,0.0,0.0,0.0,1.0,Sun Nov 19 16:00:14 +0000 2017
+468,The New York Times,32,The gymnast Gabby Douglas said that it was incumbent on women “to dress modestly” and “be classy” https://t.co/jJvY1AavN7,0.0,0.0,0.0,1.0,Sun Nov 19 15:45:07 +0000 2017
+469,The New York Times,31,Malcolm Young used his rhythm guitar to make AC/DC swing as much as it stomped. Hear 10 essential songs. https://t.co/0jWepO5Hj0,0.0,0.0,0.0,1.0,Sun Nov 19 15:30:07 +0000 2017
+470,The New York Times,30,"Spain's top prosecutor, who was leading the case against separatist Catalan leaders, has died after falling ill https://t.co/7SA7WlWJSy",-0.7351,0.076,0.336,0.588,Sun Nov 19 15:15:09 +0000 2017
+471,The New York Times,29,"RT @mikiebarb: Meet Elsa Moock, 10, who joined the Boy Scouts and has a lot to teach us about being brave -- and being ourselves. Listen to…",0.5267,0.12,0.0,0.88,Sun Nov 19 15:06:44 +0000 2017
+472,The New York Times,28,"Inside the camp, the men were desperate but determined to find freedom. Sick. Hungry. Trapped. This is Manus Island. https://t.co/UsDkdGMVM3",-0.2023,0.257,0.309,0.434,Sun Nov 19 15:00:20 +0000 2017
+473,The New York Times,27,Trying to assess the line between predatory behavior and an inexcusable mistake https://t.co/WhcqrPQqf6,-0.34,0.0,0.167,0.833,Sun Nov 19 14:30:17 +0000 2017
+474,The New York Times,26,From Our Readers: ‘I Remember the Joy’: Readers Reflect on Life Under Mugabe and Hopes for the Future https://t.co/2pMnBcrxaO,0.4215,0.135,0.0,0.865,Sun Nov 19 14:20:12 +0000 2017
+475,The New York Times,25,Hiking in California’s gold country with leading composer John Adams to see the real-life setting of his new opera https://t.co/48uhdPBfIP,0.0,0.0,0.0,1.0,Sun Nov 19 14:00:12 +0000 2017
+476,The New York Times,24,"As Roy Moore first made a name for himself as a prosecutor, he also developed another reputation: liking young girls https://t.co/nAFC9xqMtq",0.4019,0.13,0.0,0.87,Sun Nov 19 13:30:19 +0000 2017
+477,The New York Times,23,"Honda is recalling about 800,000 Odyssey minivans in the U.S. because of problems with locking adjustable seats int… https://t.co/8klEuFzLBU",-0.4019,0.0,0.13,0.87,Sun Nov 19 13:12:00 +0000 2017
+478,The New York Times,22,"Breaking News: President Robert Mugabe of Zimbabwe was ousted as leader of his own party, as he negotiated his resi… https://t.co/AhQUumKi7o",0.4019,0.119,0.0,0.881,Sun Nov 19 13:07:29 +0000 2017
+479,The New York Times,21,It doesn't get more festive than this https://t.co/QIahC4doCS,-0.4013,0.0,0.278,0.722,Sun Nov 19 12:56:06 +0000 2017
+480,The New York Times,20,"New York’s subways are crumbling. But the crisis was long in the making, a Times investigation shows. https://t.co/Sfi9daZ3T1",-0.6249,0.0,0.204,0.796,Sun Nov 19 12:30:07 +0000 2017
+481,The New York Times,19,Robert Mugabe Is Ousted From His Ruling Party in Zimbabwe https://t.co/vB09OCgPCM,0.4019,0.213,0.0,0.787,Sun Nov 19 12:29:16 +0000 2017
+482,The New York Times,18,Ron Johnson is the first Senate Republican to say publicly that he could not vote for the Senate’s tax plan https://t.co/tVrA3tQcoy,0.0,0.0,0.0,1.0,Sun Nov 19 12:00:17 +0000 2017
+483,The New York Times,17,Preparing for Doomsday in a $1.5 Million Bunker Condo https://t.co/gk7QKeZklH,-0.5859,0.0,0.322,0.678,Sun Nov 19 11:42:16 +0000 2017
+484,The New York Times,16,Roy Moore is only the latest flare-up in a state whose politics has been something of a Dumpster fire for years https://t.co/IctRPNmhxw,-0.4588,0.0,0.182,0.818,Sun Nov 19 11:30:11 +0000 2017
+485,The New York Times,15,The Daily: Listen to ‘The Daily’: A Special Episode for Kids https://t.co/qYFfhVpixw,0.4019,0.213,0.0,0.787,Sun Nov 19 11:04:26 +0000 2017
+486,The New York Times,14,"A typical politician might not have mocked Al Franken for similar accusations, but Trump has proven to be atypical https://t.co/dzL54uj73g",-0.0436,0.074,0.082,0.844,Sun Nov 19 11:00:21 +0000 2017
+487,The New York Times,13,Cold and flu season is here. Here's what you need for when viruses come knocking. https://t.co/RDzD0zD77D,-0.3818,0.0,0.148,0.852,Sun Nov 19 10:45:29 +0000 2017
+488,The New York Times,12,"Six Years After Fukushima, Robots Finally Find Reactors’ Melted Uranium Fuel https://t.co/1mCgtXh7yP",0.0,0.0,0.0,1.0,Sun Nov 19 10:26:10 +0000 2017
+489,The New York Times,11,"“The pictures are very impressive, and very dramatic. ... But her life, I’m sorry, it’s a fake.” https://t.co/zEJasCwxJW",0.5095,0.181,0.065,0.754,Sun Nov 19 10:23:35 +0000 2017
+490,The New York Times,10,Trilobites: How Snapdragons Beckon Bees With More Than One Color https://t.co/0JJTtV29t2,0.0,0.0,0.0,1.0,Sun Nov 19 10:05:43 +0000 2017
+491,The New York Times,9,The creator of Mad Men has a new novel. Here's our review: https://t.co/RZBAaeMruu,-0.2263,0.148,0.206,0.645,Sun Nov 19 09:54:37 +0000 2017
+492,The New York Times,8,Because happiness isn’t something that just happens to you https://t.co/a46w2z9NhE,0.5574,0.286,0.0,0.714,Sun Nov 19 09:36:48 +0000 2017
+493,The New York Times,7,"""What is wrong with saying that Thanksgiving is about genocide as much as it is about gratitude?"" https://t.co/0LuyqZCMOZ",-0.4767,0.0,0.154,0.846,Sun Nov 19 09:18:43 +0000 2017
+494,The New York Times,6,"‘Saturday Night Live’ Takes Aim at Al Franken, an ‘S.N.L.’ Alumnus https://t.co/G5nQn8oKDu",0.0,0.0,0.0,1.0,Sun Nov 19 08:59:35 +0000 2017
+495,The New York Times,5,"The opposition politician Raila Odinga returned from abroad, and his supporters clashed with the police in Kenya https://t.co/sgagVofKxp",0.4404,0.146,0.0,0.854,Sun Nov 19 08:54:16 +0000 2017
+496,The New York Times,4,RT @nytimesmusic: ECM’s catalog is finally streaming. Here are 20 essential albums. https://t.co/1Eelijj62X https://t.co/Log8h4Ad4M,0.0,0.0,0.0,1.0,Sun Nov 19 08:36:46 +0000 2017
+497,The New York Times,3,"How to lower your blood pressure
+https://t.co/Aakvasxqrj",-0.5267,0.0,0.468,0.532,Sun Nov 19 08:19:25 +0000 2017
+498,The New York Times,2,Could You Be Allergic to Additives in Food or Drugs? https://t.co/ND39CinoX4,-0.296,0.0,0.18,0.82,Sun Nov 19 08:02:04 +0000 2017
+499,The New York Times,1,"Lebanon’s prime minister arrived in France after 2 weeks in Saudi Arabia, a stay that sparked intense rumors https://t.co/c5tlzxJ9GU",0.0772,0.075,0.0,0.925,Sun Nov 19 08:01:53 +0000 2017
